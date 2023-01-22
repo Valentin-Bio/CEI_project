@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eduardo Castro-Nallar | CEI</title>
+    <link>https://aesthetic-gecko-c65929.netlify.app/authors/eduardo-castro-nallar/</link>
+      <atom:link href="https://aesthetic-gecko-c65929.netlify.app/authors/eduardo-castro-nallar/index.xml" rel="self" type="application/rss+xml" />
+    <description>Eduardo Castro-Nallar</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language><lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://aesthetic-gecko-c65929.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Eduardo Castro-Nallar</title>
+      <link>https://aesthetic-gecko-c65929.netlify.app/authors/eduardo-castro-nallar/</link>
+    </image>
+    
+    <item>
+      <title>Annotating unknown species of urban microorganisms on a global scale unveils novel functional diversity and local environment association</title>
+      <link>https://aesthetic-gecko-c65929.netlify.app/publication/wu-annotating-2022/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://aesthetic-gecko-c65929.netlify.app/publication/wu-annotating-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Influence of Physical-Chemical Soil Parameters on Microbiota Composition and Diversity in a Deep Hyperarid Core of the Atacama Desert</title>
+      <link>https://aesthetic-gecko-c65929.netlify.app/publication/fuentes-influence-2022/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://aesthetic-gecko-c65929.netlify.app/publication/fuentes-influence-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting climate change-related genetic offset for the endangered southern South American conifer Araucaria araucana</title>
+      <link>https://aesthetic-gecko-c65929.netlify.app/publication/varas-myrik-predicting-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://aesthetic-gecko-c65929.netlify.app/publication/varas-myrik-predicting-2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

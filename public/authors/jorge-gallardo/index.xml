@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jorge Gallardo | CEI</title>
+    <link>https://aesthetic-gecko-c65929.netlify.app/authors/jorge-gallardo/</link>
+      <atom:link href="https://aesthetic-gecko-c65929.netlify.app/authors/jorge-gallardo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jorge Gallardo</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language>
+    <image>
+      <url>https://aesthetic-gecko-c65929.netlify.app/authors/jorge-gallardo/avatar_hu55c8341c15cd108df494031bcde13fb1_1054842_270x270_fill_q75_lanczos_center.jpeg</url>
+      <title>Jorge Gallardo</title>
+      <link>https://aesthetic-gecko-c65929.netlify.app/authors/jorge-gallardo/</link>
+    </image>
+    
+  </channel>
+</rss>

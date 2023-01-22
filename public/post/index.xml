@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | CEI</title>
+    <link>https://aesthetic-gecko-c65929.netlify.app/post/</link>
+      <atom:link href="https://aesthetic-gecko-c65929.netlify.app/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://aesthetic-gecko-c65929.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Posts</title>
+      <link>https://aesthetic-gecko-c65929.netlify.app/post/</link>
+    </image>
+    
+    <item>
+      <title>Primer dia de toma de muestras MetaSUB en Talca</title>
+      <link>https://aesthetic-gecko-c65929.netlify.app/post/getting-started/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://aesthetic-gecko-c65929.netlify.app/post/getting-started/</guid>
+      <description>&lt;p&gt;El muestreo ha sido organizado en Chile desde el año 2015 exclusivamente en Santiago a lo largo de distintas coomunas con la finalidad de estudiar y representar el microbioma urbano de la ciudad. Sin
+embargo este año 2022, a manos del Dr Eduardo Castro, la iniciativa se ha exttapolado por primera vez
+a una ciudad regional del país.&lt;/p&gt;
+&lt;p&gt;Nueve integrantes del centro de investigaciones se desplegaron por sitios urbanos concurridos de la ciudad de Talca tomando muestras del microbioma de diversas superficies de la ciudad.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CEI</title>
+    <link>https://aesthetic-gecko-c65929.netlify.app/</link>
+      <atom:link href="https://aesthetic-gecko-c65929.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <description>CEI</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://aesthetic-gecko-c65929.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>CEI</title>
+      <link>https://aesthetic-gecko-c65929.netlify.app/</link>
+    </image>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>https://aesthetic-gecko-c65929.netlify.app/talk/example-talk/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>https://aesthetic-gecko-c65929.netlify.app/talk/example-talk/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fungal endophytes improve the performance of host plants but do not eliminate the growth/defence trade‐off</title>
+      <link>https://aesthetic-gecko-c65929.netlify.app/publication/atala-fungal-2022/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://aesthetic-gecko-c65929.netlify.app/publication/atala-fungal-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How and when fungal endophytes can eliminate the plant growth–defence trade‐off: mechanistic perspectives</title>
+      <link>https://aesthetic-gecko-c65929.netlify.app/publication/bastias-how-2022/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://aesthetic-gecko-c65929.netlify.app/publication/bastias-how-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Annotating unknown species of urban microorganisms on a global scale unveils novel functional diversity and local environment association</title>
+      <link>https://aesthetic-gecko-c65929.netlify.app/publication/wu-annotating-2022/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://aesthetic-gecko-c65929.netlify.app/publication/wu-annotating-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aplicaciones Biotecnologicas</title>
+      <link>https://aesthetic-gecko-c65929.netlify.app/project/aplicaciones-biotecnologicas/</link>
+      <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://aesthetic-gecko-c65929.netlify.app/project/aplicaciones-biotecnologicas/</guid>
+      <description>&lt;p&gt;Ante el cambio climático, el manejo de herramientas ecológicas para los procesos agrícolas y de conservación asegurará la integración de las dinámicas naturales y antrópicas para minimizar nuestro impacto hacia la sustentabilidad. Nos enfocamos en el desarrollo de la simbiosis funcional planta-microbio para la seguridad alimentaria y la restauración ecológica.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hardening Blueberry Plants to Face Drought and Cold Events by the Application of Fungal Endophytes</title>
+      <link>https://aesthetic-gecko-c65929.netlify.app/publication/acuna-rodriguez-hardening-2022/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://aesthetic-gecko-c65929.netlify.app/publication/acuna-rodriguez-hardening-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biological Soil Crusts as Ecosystem Engineers in Antarctic Ecosystem</title>
+      <link>https://aesthetic-gecko-c65929.netlify.app/publication/barrera-biological-2022/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://aesthetic-gecko-c65929.netlify.app/publication/barrera-biological-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Influence of Physical-Chemical Soil Parameters on Microbiota Composition and Diversity in a Deep Hyperarid Core of the Atacama Desert</title>
+      <link>https://aesthetic-gecko-c65929.netlify.app/publication/fuentes-influence-2022/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://aesthetic-gecko-c65929.netlify.app/publication/fuentes-influence-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biodiversidad de comunidades microbianas en la Antartica</title>
+      <link>https://aesthetic-gecko-c65929.netlify.app/project/biodiversidad-de-comunidades-microbianas-en-la-antartica/</link>
+      <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://aesthetic-gecko-c65929.netlify.app/project/biodiversidad-de-comunidades-microbianas-en-la-antartica/</guid>
+      <description>&lt;p&gt;La Antártida es el continente más alto, seco y frío de la Tierra. Sus características lo hacen inhóspito para la mayoría de las formas de vida multicelulares, sin embargo, los microbios están presentes en todos los nichos, desde los lagos submarinos hasta las raíces de las dos plantas vasculares nativas de la Antártida, Deschampsia antarctica y Colobanthus quitensis. En esta área de investigación, actualmente estamos trabajando en dos proyectos interrelacionados.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Origen de la rizosfera antártica&lt;/strong&gt;. En el primer proyecto, queremos entender cuál es el origen de la rizosfera de estas dos especies de plantas, cuáles son las funciones genéticas que codifican y si brindan algún servicio a las plantas. Para ello, utilizamos como modelo un sitio de ZAEP, la península Byers, ubicada en el extremo occidental de la isla Livingston (Shetland del Sur), Antártida. Aquí, hemos tomado muestras de cuatro sitios que abarcan una variedad de condiciones, como que ambas plantas se presenten juntas o solas, cerca de la costa, cerca de un glaciar, etc. comunidades, así como la estabilidad temporal. También estamos enfocando nuestros esfuerzos en aislar los microbios más abundantes de la rizósfera para crear comunidades sintéticas en el laboratorio y probar hipótesis en un entorno experimental.&lt;/p&gt;
+&lt;p&gt;Sabemos que el sitio de muestreo y, en cierta medida, la proximidad entre sitios, juegan un papel en la composición y estructura de la comunidad microbiana. Los resultados preliminares también sugieren que la rizosfera se adquiere horizontalmente del suelo, de una manera un tanto específica.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Transporte a larga distancia de contaminantes y microbios&lt;/strong&gt;. El segundo proyecto es un esfuerzo de colaboración que involucra a investigadores de varias universidades de Chile, incluidas la Universidad de Chile, la Universidad de Talca y la P. Universidad Católica. El proyecto, denominado POLARIX, estudiará las teleconexiones entre la Antártida y el resto del mundo, utilizando como modelos los Contaminantes Orgánicos Persistentes y los microbios.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Predicting climate change-related genetic offset for the endangered southern South American conifer Araucaria araucana</title>
+      <link>https://aesthetic-gecko-c65929.netlify.app/publication/varas-myrik-predicting-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://aesthetic-gecko-c65929.netlify.app/publication/varas-myrik-predicting-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seed functional traits in cultivars of tall fescue (Schedonorus arundinaceus) are affected by the non-toxic fungal endophyte AR584</title>
+      <link>https://aesthetic-gecko-c65929.netlify.app/publication/riveira-rubin-seed-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://aesthetic-gecko-c65929.netlify.app/publication/riveira-rubin-seed-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Primer dia de toma de muestras MetaSUB en Talca</title>
+      <link>https://aesthetic-gecko-c65929.netlify.app/post/getting-started/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://aesthetic-gecko-c65929.netlify.app/post/getting-started/</guid>
+      <description>&lt;p&gt;El muestreo ha sido organizado en Chile desde el año 2015 exclusivamente en Santiago a lo largo de distintas coomunas con la finalidad de estudiar y representar el microbioma urbano de la ciudad. Sin
+embargo este año 2022, a manos del Dr Eduardo Castro, la iniciativa se ha exttapolado por primera vez
+a una ciudad regional del país.&lt;/p&gt;
+&lt;p&gt;Nueve integrantes del centro de investigaciones se desplegaron por sitios urbanos concurridos de la ciudad de Talca tomando muestras del microbioma de diversas superficies de la ciudad.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Root endophytic Penicillium promotes growth of Antarctic vascular plants by enhancing nitrogen mineralization</title>
+      <link>https://aesthetic-gecko-c65929.netlify.app/publication/oses-pedraza-root-2020/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://aesthetic-gecko-c65929.netlify.app/publication/oses-pedraza-root-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Patrones y procesos en fenómenos naturales</title>
+      <link>https://aesthetic-gecko-c65929.netlify.app/project/patrones-y-procesos-en-fenomenos-naturales/</link>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://aesthetic-gecko-c65929.netlify.app/project/patrones-y-procesos-en-fenomenos-naturales/</guid>
+      <description>&lt;p&gt;A través de la identificación de patrones naturales, nuestro objetivo es comprender las fuerzas ecológicas que impulsan la dinámica biológica de las plantas, particularmente en ambientes extremos, donde sus respuestas al estrés se llevan al límite de la especie.
+Usando los gradientes del paisaje como laboratorios naturales, enfocamos nuestra investigación en cambios funcionales diluidos en los rasgos de las plantas y su correlación con características específicas tanto del medio ambiente, como la bioquímica del suelo o el clima local, como de la especie, como su identidad genética o microbioma asociado.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>https://aesthetic-gecko-c65929.netlify.app/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://aesthetic-gecko-c65929.netlify.app/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://revealjs.com/pdf-export/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;==&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Eating...&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  &lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  Three
+&lt;/span&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Only the speaker can read these notes
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Press &lt;span class=&#34;sb&#34;&gt;`S`&lt;/span&gt; key to view
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  {{% /speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/media/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-image&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;/media/boards.jpg&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-color&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;#0000FF&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;class&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;my-style&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h2&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h3&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;k&#34;&gt;color&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;navy&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ecología microbiana y resistoma del fiordo Comau</title>
+      <link>https://aesthetic-gecko-c65929.netlify.app/project/ecologia-microbiana-y-resistoma-del-fiordo-comau/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://aesthetic-gecko-c65929.netlify.app/project/ecologia-microbiana-y-resistoma-del-fiordo-comau/</guid>
+      <description>&lt;p&gt;El Fiordo Comau es un sistema estuarino ubicado en el norte de la Patagonia (42ºS), Chile. En este proyecto de investigación, utilizamos el fiordo Comau como modelo de impacto antropogénico porque, mientras que la tierra que rodea el fiordo está protegida (parques nacionales; conservación privada), el fiordo en sí alberga la industria acuícola de salmón/trucha. La acuicultura en Chile es conocida por el uso de cantidades excesivas de antibióticos, donde estos se administran a través de alimentos medicados, y por lo tanto, el exceso va a las aguas de los fiordos donde impacta el ecosistema.&lt;/p&gt;
+&lt;p&gt;En este proyecto de investigación, queremos comprender la composición, estructura y diversidad taxonómica y funcional de las comunidades microbianas que habitan el fiordo. Hemos muestreado el fiordo de pies a cabeza a 5 y 20 m bajo el nivel del mar durante algunas temporadas para comprender los cambios a lo largo del año. También estamos realizando experimentos de mesocosmos para comprender la dinámica de la comunidad microbiana cuando se enfrenta a una alteración del pulso de los antibióticos.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://aesthetic-gecko-c65929.netlify.app/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://aesthetic-gecko-c65929.netlify.app/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
