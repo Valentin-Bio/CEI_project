@@ -6,7 +6,7 @@ interests:
 organizations:
 - name: Universidad de Talca
   url: https://www.utalca.cl/
-role: CEI
+role: CIE
 social:
 
 superuser: true

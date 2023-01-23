@@ -4,9 +4,9 @@ education:
  courses:
  - course: Ph.D. In Agricultural Sciences
    institution: Universidad de Buenos Aires
- - course: B.Sc. In Agronomic Engineering
+ - course: B.Sc. in Enviromental Sciences
    institution: Universidad de Buenos Aires  
-email: "pgundel@utalca.cl"
+email: "andrea.ueno@utalca.cl"
 highlight_name: true
 interests:
 - Plant Ecophysiology
@@ -19,13 +19,11 @@ role: POST DOC
 social:
  - icon: envelope
    icon_pack: fas
-   link: pgundel@utalca.cl
- - icon: twitter
-   icon_pack: fab
-   link: https://twitter.com/pedroegundel?lang=es
+   link: andrea.ueno@utalca.cl
+   
  - icon: google-scholar
    icon_pack: ai
-   link: https://scholar.google.es/citations?user=A3f5wRQAAAAJ&hl=es&oi=ao
+   link: https://www.scopus.com/authid/detail.uri?authorId=56489804400
 superuser: true
 title: Dr. Andrea Ueno
 user_groups: ["Postdoctoral Researchers"]

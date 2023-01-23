@@ -15,13 +15,13 @@ main:
     weight: 30
 
   - name: Publications
-    url: '#publicaciones'
-    weight: 50
+    url: '/Publicaciones'
+    weight: 80
   - name: Contact
     url: '#contact'
     weight: 60
   - name: "Members"
-    url: "#./../Members/content"
+    url: "/Members"
     weight: 70
 
 
