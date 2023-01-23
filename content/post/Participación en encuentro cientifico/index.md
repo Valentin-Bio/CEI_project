@@ -15,7 +15,7 @@ lastmod: "2020-12-13T00:00:00Z"
 projects: []
 subtitle: "Sexta versión"
 
-title: Particiáción en encuentro cientifico de Biología Vegetal y Biotecnología.
+title: Participación en encuentro cientifico de Biología Vegetal y Biotecnología.
 ---
 
 Sexta versión de encuentro cientifico de biología vegetal y biotecnología realizado en la Universidad de Talca, Campus Lircay  
