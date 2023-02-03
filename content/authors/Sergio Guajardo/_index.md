@@ -2,7 +2,7 @@
 bio: ""
 
 
-email: ""
+email: "sergio.guajardo@utalca.cl"
 highlight_name: true
 interests:
 - Metagenomics
@@ -13,6 +13,15 @@ organizations:
   url: https://www.utalca.cl/
 role: POST DOC
 social:
+- icon: envelope
+  icon_pack: fas
+  link: sergio.guajardo@utalca.cl
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.es/citations?user=LRVm2cUAAAAJ&hl=es&oi=ao
+- icon: twitter
+  icon_pack: fab
+  link: https://cl.linkedin.com/in/sergio-guajardo-leiva-6356a1192
 
 superuser: true
 title: Dr. Sergio Guajardo

@@ -1,5 +1,5 @@
 ---
-date: "2016-04-27T00:00:00Z"
+date: "2023-01-31T00:00:00Z"
 external_link: ""
 image:
   caption: Base cientifica de Bahía de Huinay, fiordo Comau
@@ -22,7 +22,7 @@ url_video: ""
 
 <style>
  section{
- background: #f3ebba;
+ background: #f8f2cc;
  margin: 0px;
  padding: 0px;
  }
@@ -103,13 +103,13 @@ The diversity and functional significance of microbial communities have become a
 
 <h2><b>Senior researchers as advisors</b></h2>
 
-Keith A. Crandall – The George Washington University
+<a href="https://cbi.gwu.edu/keith-crandall">Keith A. Crandall</a> – The George Washington University
 
-Marcos Pérez-Losada – The George Washington University
+<a href="https://cbi.gwu.edu/marcos-perez-losada">Marcos Pérez-Losada</a> – The George Washington University
 
-Amy E. Zanne – University of Miami
+<a href="https://people.miami.edu/profile/b6f6679fa2fc5c3e713597da6eca8131">Amy E. Zanne</a> – University of Miami
 
-Christopher Mason – Weil Cornell Medicine
+<a href="https://physiology.med.cornell.edu/people/christopher-mason-ph-d/">Christopher Mason</a> – Weil Cornell Medicine
 
 </section>
 
@@ -117,6 +117,24 @@ Christopher Mason – Weil Cornell Medicine
 <br>
 
 </body>
+
+
+
+<footer> 
+
+<h2> Link to photography </h2> 
+
+
+https://www.dropbox.com/s/qqigvuajub0ei0c/glaciarunion.031.jpeg?dl=0
+
+https://www.dropbox.com/s/c34w5i5n9jd0ohe/glaciarunion02.jpeg?dl=0
+
+
+
+</footer> 
+
+
+
 
 
 
