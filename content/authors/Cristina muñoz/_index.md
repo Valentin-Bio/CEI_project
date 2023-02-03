@@ -15,23 +15,28 @@ education:
 email: "c.muozrehbein@uandresbello.edu"
 highlight_name: false
 interests:
-- Metagenómica
-- Metabolómica
+- Metagenomic
+- Marine microbiomes
 organizations:
 - name: Universidad Nacional Andrés Bello
-  url: ""
-role: Estudiante doctorado
+  url: "https://www.unab.cl/"
+role: Ph.D. Candidate
 social:
 - icon: envelope
   icon_pack: fas
-  link: c.muozrehbein@uandresbello.edu
+  link: cmunozrehbein@gmail.com
+  
+- icon: github  
+  icon_pack: fab
+  link: https://github.com/cristinamunoz
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: ""
 
 superuser: true
 title: Cristina Muñoz
-user_groups: ["phD"]
+user_groups: ["Doctoral Students"]
 ---
 
-I am a Biochemist from the Pontifical Catholic University of Valparaíso. I did a Master in Biological Sciences at the University of Chile and I am currently doing PhD studies in Bioinformatics and Systems Biology at the Andrés Bello University. My doctoral thesis will be focused on identifying taxonomic and functional variations of microbiological communities of the Comau Fjord in the face of disturbances in the environment. My previous experience has been working with cellular mechanisms against regenerative processes in Danio rerio and comparative bioinformatic analysis of the metabolism of Austrolebias charrua, a project carried out at the Center for Genome Regulation.
+PhD candidate in Bioinformatics and Systems Biology. Biochemist by profession. My project is focused on identifying taxonomic and functional variations of microbiological communities of the Comau Fjord in the face of disturbances in the environment with a focus on rare taxa. My previous experience has been working with cellular mechanisms against regenerative processes in Danio rerio and comparative bioinformatic analysis of the genome and metabolism of Austrolebias charrua, a project developed at the Center for Genome Regulation.
+

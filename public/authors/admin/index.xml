@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Center for Integrative Ecology | CEI</title>
+    <title>Centre for Integrative Ecology | CIE</title>
     <link>https://aesthetic-gecko-c65929.netlify.app/authors/admin/</link>
       <atom:link href="https://aesthetic-gecko-c65929.netlify.app/authors/admin/index.xml" rel="self" type="application/rss+xml" />
-    <description>Center for Integrative Ecology</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <description>Centre for Integrative Ecology</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language><lastBuildDate>Wed, 03 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://aesthetic-gecko-c65929.netlify.app/authors/admin/avatar_hucdf1b365c47c640dbdcecbf7d482d66c_71848_270x270_fill_q75_lanczos_center.jpg</url>
-      <title>Center for Integrative Ecology</title>
+      <url>https://aesthetic-gecko-c65929.netlify.app/authors/admin/avatar_hu7ed943e00e87cfc26ac6070d9f22f879_300101_270x270_fill_lanczos_center_3.png</url>
+      <title>Centre for Integrative Ecology</title>
       <link>https://aesthetic-gecko-c65929.netlify.app/authors/admin/</link>
     </image>
+    
+    <item>
+      <title>Participación en encuentro cientifico de Biología Vegetal y Biotecnología.</title>
+      <link>https://aesthetic-gecko-c65929.netlify.app/post/participacion-en-encuentro-cientifico/</link>
+      <pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://aesthetic-gecko-c65929.netlify.app/post/participacion-en-encuentro-cientifico/</guid>
+      <description>&lt;p&gt;Sexta versión de encuentro cientifico de biología vegetal y biotecnología realizado en la Universidad de Talca, Campus Lircay&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Primer dia de toma de muestras MetaSUB en Talca</title>
