@@ -27,10 +27,7 @@ url_video: ""
  padding: 0px;
  }
 
- body{
- margin: 0 ;
- padding: 0;
- }  
+
 
 </style>
 
