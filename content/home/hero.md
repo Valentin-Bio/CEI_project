@@ -7,7 +7,8 @@ title: ""
 weight: 10 # Position of section on the page
 
 # Hero image (optional). Enter filename of an image in the assets/media/ folder.
-hero_media: ''
+hero_media: 'avatar.png'
+ 
 
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `cta`.
@@ -31,8 +32,7 @@ design:
     gradient_end: '#8fe08d'
     gradient_start: '#e7e691'
     text_color_light: true
-    
-  
+
 ---
 
 <FONT COLOR="green"> 
@@ -40,10 +40,4 @@ The vast and complex set of factors behind any natural process usually requires 
 </FONT>
 
 ---
-
-<img src="avatar.png">
-
-
-
-
 
