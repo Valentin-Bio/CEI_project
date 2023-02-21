@@ -28,7 +28,7 @@ url_video: ""
  }
 
 
-
+ h2
 </style>
 
 
@@ -75,6 +75,8 @@ The diversity and functional significance of microbial communities have become a
 <br>
 
 <h2><b>Postdoctoral researchers </b> </h2>
+
+
 
 <a href="content/authors/Sergio \ Guajardo/_index.md"> Sergio Guajardo</a> - viromes, soil communities, bioinformatics
 
