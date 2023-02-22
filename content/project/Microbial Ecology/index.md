@@ -78,9 +78,9 @@ The diversity and functional significance of microbial communities have become a
 
 
 
-{{% mention "Sergio_Guajardo" %}} - viromes, soil communities, bioinformatics
+{{% mention "sergio-guajardo" %}} - viromes, soil communities, bioinformatics
 
-<a href="content/authors/Jorge \ Gallardo/_index.md"> Jorge Gallardo</a> – botany, yeasts, in situ experiments
+{{% mention "jorge-gallardo" %}} – botany, yeasts, in situ experiments
 
 
 
@@ -90,13 +90,13 @@ The diversity and functional significance of microbial communities have become a
 
 <h2><b>Graduate students </b> </h2>
 
-<a href= "content/authors/Valentin \ Berrios/_index.md"> Valentín Berríos </a> – bioinformatics, genomics, natural products, biosynthetic gene clusters
+{{% mention "valentin-berrios" %}} – bioinformatics, genomics, natural products, biosynthetic gene clusters
 
-<a href="content/authors/Felipe \ Bermudez/_index.md" >Felipe Bermúdez</a> – resilience, aquatic microbial communities, mesocosmos.
+{{% mention "felipe-bermudez" %}} – resilience, aquatic microbial communities, mesocosmos.
 
-<a href="content/authors/Cristina \ munoz"> Cristina Muñoz</a> – bioinformatics, genomics, aquatic microbial communities.
+{{% mention "cristina-muñoz" %}} – bioinformatics, genomics, aquatic microbial communities.
 
-<a href="content/authors/Jaime \ alarcon/_index.md">Jaime Alarcón</a> – phyllosphere, araucaria, biogeography.
+{{% mention "jaime-alarcon" %}} – phyllosphere, araucaria, biogeography.
 
 
 
