@@ -78,7 +78,7 @@ The diversity and functional significance of microbial communities have become a
 
 
 
-<a href="content/authors/Sergio \ Guajardo/_index.md"> Sergio Guajardo</a> - viromes, soil communities, bioinformatics
+{{% mention "Sergio_Guajardo" %}} - viromes, soil communities, bioinformatics
 
 <a href="content/authors/Jorge \ Gallardo/_index.md"> Jorge Gallardo</a> – botany, yeasts, in situ experiments
 

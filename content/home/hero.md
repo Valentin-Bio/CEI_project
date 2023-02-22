@@ -14,13 +14,11 @@ hero_media: 'avatar.png'
 #   Display link(s) by specifying a URL and label below. Icon is optional for `cta`.
 #   Remove a link/note by deleting a cta/note block.
 cta:
-  url: 'https://wowchemy.com'
+  url: 'content/project'
   label: Research topics
   icon_pack: fab
   icon: medium
-cta_alt:
-  url: 'https://wowchemy.com'
-  label: View Documentation
+
 
 # Note. An optional note to show underneath the links.
 cta_note:
@@ -40,4 +38,10 @@ The vast and complex set of factors behind any natural process usually requires 
 </FONT>
 
 ---
+
+
+
+<br>
+<a href="https://www.utalca.cl/" style= "color: green; margin-left: 10px"> Universidad de Talca </a>
+
 

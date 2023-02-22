@@ -37,5 +37,5 @@ design:
 ---
 
 {{% callout note %}}
-Search by filter pattern using the [publication filter](./publicaciones/).
+Search by filter pattern using the [publication filter](./publication/).
 {{% /callout %}}
