@@ -1,3 +1,4 @@
+
 ---
 widget: hero
 headless: true  # This file represents a page section.
@@ -13,11 +14,11 @@ hero_media: 'avatar.png'
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `cta`.
 #   Remove a link/note by deleting a cta/note block.
-cta:
-  url: 'content/project'
-  label: Research topics
-  icon_pack: fab
-  icon: medium
+#cta:
+#  url: 'content/project'
+#  label: Research topics
+#  icon_pack: fab
+#  icon: medium
 
 
 # Note. An optional note to show underneath the links.
@@ -31,6 +32,8 @@ design:
     gradient_start: '#e7e691'
     text_color_light: true
 
+
+
 ---
 
 <FONT COLOR="green"> 
@@ -40,7 +43,9 @@ The vast and complex set of factors behind any natural process usually requires 
 ---
 
 
-
+<section>
+{{< figure src="utalca_logo_noback.png" id="university-logo" width="10%">}}
+</section>
 <br>
 <a href="https://www.utalca.cl/" style= "color: green; margin-left: 10px"> Universidad de Talca </a>
 

@@ -4,6 +4,9 @@ external_link: ""
 image:
   caption: Base cientifica de Bahía de Huinay, fiordo Comau
   focal_point: Smart
+
+design:
+ columns: '1'
 #links:
 #- icon: twitter
 #  icon_pack: fab
@@ -13,7 +16,7 @@ image:
 summary: ""
 tags:
 - ""
-title: "Microbial Ecology"
+title: "RL2 - Microbial Ecology"
 url_code: ""
 url_pdf: ""
 url_slides: ""

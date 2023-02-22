@@ -27,7 +27,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: vescobedo@utalca.cl
-
+- icon: chile
+  icon_pack: custom
+  link: ''
 
 
 superuser: true

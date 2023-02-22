@@ -26,7 +26,13 @@ url_video: ""
  background: #f8f2cc;
  }
 
+
+
 </style>
+
+
+
+<body>
 
 <p>
 Plants are the key as they produce most of the organic energy that sustain life and ecosystem processes on earth. This organic energy can be in live organisms or dead matter and sustain plant-based trophic food webs or detritus-based trophic webs. 
@@ -70,4 +76,7 @@ Never before, two big impulses lead our work and fall under the umbrella of the 
 
 
 </section>
+
+
+</body>
 
