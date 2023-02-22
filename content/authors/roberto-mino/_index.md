@@ -15,7 +15,7 @@ interests:
 organizations:
 - name: Universidad de Talca
   url: https://www.utalca.cl/
-role: "Ph.D. Student"
+role: "Ph.D. Candidate"
 social:
 - icon: envelope
   icon_pack: fas

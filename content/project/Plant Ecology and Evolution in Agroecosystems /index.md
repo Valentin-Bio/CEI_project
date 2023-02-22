@@ -13,7 +13,7 @@ image:
 summary: ""
 tags:
 - ""
-title: "Plant Ecology and Evolution in Agroecosystems"
+title: "RL1 - Plant Ecology and Evolution in Agroecosystems"
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -43,25 +43,25 @@ Never before, two big impulses lead our work and fall under the umbrella of the 
 
 <h2><b>Postdoctoral researchers</b></h2>  
 
-<a href="/content/authors/Andrea Ueno/_index.md">Dr. Ueno, A.C.</a> 2022-2024. Papel de las asociaciones simbióticas en relación maleza-cultivo bajo escenarios de cambio global: la batalla se intensifica. Postdoctoral fellowship supported by University of Talca, Chile. 
+{{% mention "andrea-ueno" %}} 2022-2024. Papel de las asociaciones simbióticas en relación maleza-cultivo bajo escenarios de cambio global: la batalla se intensifica. Postdoctoral fellowship supported by University of Talca, Chile. 
 
 <br>
 
 <h2><b>Doctoral researchers</b></h2>  
 <ul>
-<li> <a href="/content/authors/Frank Zarraga/_index.md">Frank Zarraga.</a> 2022-2025. Respuestas transgeneracionales en plantas mediadas por microorganismos simbióticos de transmisión vertical. Doctoral fellowship supported by University of Talca, Chile.</li>  
+<li> {{% mention "frank-zarraga" %}} 2022-2025. Respuestas transgeneracionales en plantas mediadas por microorganismos simbióticos de transmisión vertical. Doctoral fellowship supported by University of Talca, Chile.</li>  
 </ul>
 
 <br>
 
 <h2><b>Technician</b></h2>   
 <ul>
-<li> <a href="content/authors/Sebastian gonzalez/_index.md">Dr. Sebastián González Días.</a> He obtained his Doctorate in Science DBVB program at the Institute of Biological Sciences of the University of Talca, Chile. His expertise is on molecular biology. </li> 
+<li> {{% mention "sebastian-gonzalez" %}} He obtained his Doctorate in Science DBVB program at the Institute of Biological Sciences of the University of Talca, Chile. His expertise is on molecular biology. </li> 
 </ul>
 
 <br>
 
-<h2><b>External advisors</b></h2> 
+<h2><b>International collaborators</b></h2> 
 <ul>
 <li><a href="https://www.utm.utoronto.ca/cue/people/marc-johnson">Professor Marc Johnson (PhD)</a> – Director of the Centre for Urban Environments, University of Toronto Mississauga, Canada.</li> 
 

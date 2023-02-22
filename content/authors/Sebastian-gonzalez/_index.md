@@ -28,8 +28,8 @@ social:
 
 
 superuser: true
-title: Andrea Barrera
-user_groups: ["Doctoral Students"]
+title: Sebastian González
+user_groups: ["Research Assistants"]
 ---
 
 My research interests are framed in the study of molecular microbiology, with special emphasis on extremophilic microorganisms. My interest focuses on the study of extreme environments, isolation and identification of key microorganisms, microbial ecology, soil microbiology, biogeochemical cycles modulated by extremophile microorganisms, plant-microorganism interactions, and currently an approach to astrobiology. The main focus of our research is the ecophysiology, understood as that mechanistic and functional approach that allows us to understand the patterns of distribution and abundance of plant populations and communities. I am currently developing my doctoral thesis based on the study of Biocrust in extreme environments.

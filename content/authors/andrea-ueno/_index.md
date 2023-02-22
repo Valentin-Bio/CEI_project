@@ -26,7 +26,7 @@ social:
    link: https://www.scopus.com/authid/detail.uri?authorId=56489804400
 superuser: true
 title: Dr. Andrea Ueno
-user_groups: ["Postdoctoral Researchers"]
+user_groups: ["Associated Researchers"]
 ---
 
 My research project focuses on understanding the interaction between plants and microorganisms, particularly a group of endophytic fungi associated with grasses of agronomic interest. In addition, this research line seeks to explore how these fungal endophytes affect plants' ability to cope with stress factors of global change.

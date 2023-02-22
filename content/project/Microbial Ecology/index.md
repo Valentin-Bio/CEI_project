@@ -94,7 +94,7 @@ The diversity and functional significance of microbial communities have become a
 
 {{% mention "felipe-bermudez" %}} – resilience, aquatic microbial communities, mesocosmos.
 
-{{% mention "cristina-muñoz" %}} – bioinformatics, genomics, aquatic microbial communities.
+{{% mention "cristina-munoz" %}} – bioinformatics, genomics, aquatic microbial communities.
 
 {{% mention "jaime-alarcon" %}} – phyllosphere, araucaria, biogeography.
 
@@ -103,7 +103,7 @@ The diversity and functional significance of microbial communities have become a
 <br>
 <br>
 
-<h2><b>Senior researchers as advisors</b></h2>
+<h2><b>International collaborators</b></h2>
 
 <a href="https://cbi.gwu.edu/keith-crandall">Keith A. Crandall</a> – The George Washington University
 

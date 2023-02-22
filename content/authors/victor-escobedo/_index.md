@@ -32,7 +32,7 @@ social:
 
 superuser: true
 title: Dr. Victor Escobedo
-user_groups: ["Postdoctoral Researchers"]
+user_groups: ["Associated Researchers"]
 ---
 
 My main research goals are to provide functional and evolutionary insight into ecological patterns identified in the field or established in the literature and understand how species interaction with others and with the environment modulate biodiversity maintenance. I am interested in integrating approaches from different scales and areas of knowledge to evaluate ecological hypotheses. My research has combined theory with experimental and observational work, mainly in arid shrublands and evergreen forests.
