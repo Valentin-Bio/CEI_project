@@ -25,7 +25,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
+  email: ecastron@utalca.cl
   phone: ""
   address:
     street: Avenida Lircay s/n, campus Talca

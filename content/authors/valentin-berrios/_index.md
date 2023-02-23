@@ -14,7 +14,7 @@ interests:
 organizations:
 - name: Universidad de Talca
   url: https://www.utalca.cl/
-role: ""
+role: "Ph.D. Student"
 social:
 - icon: envelope
   icon_pack: fas
@@ -25,7 +25,7 @@ social:
 
 superuser: true
 title: Valentín Berrios
-user_groups: ["Research Assistants"]
+user_groups: ["Doctoral Students"]
 ---
 Departamento de Microbiología, Facultad de Ciencias de la Salud, Universidad de Talca, Campus Talca, Avda. Lircay s/n, Talca, Chile.
  

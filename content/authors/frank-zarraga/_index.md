@@ -18,7 +18,7 @@ interests:
 organizations:
 - name: Universidad de Talca
   url: ""
-role: phD Student
+role: Ph.D. Student
 social:
 - icon: envelope
   icon_pack: fas

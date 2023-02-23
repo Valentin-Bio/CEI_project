@@ -2,7 +2,7 @@
 date: "2023-01-31T00:00:00Z"
 external_link: ""
 image:
-  caption: Base cientifica de Bahía de Huinay, fiordo Comau
+  caption: Base cientifica de San Ignacio de Huinay, fiordo Comau
   focal_point: Smart
 weight: 10
 design:
@@ -16,7 +16,7 @@ design:
 summary: ""
 tags:
 - ""
-title: "RL1 - Microbial Ecology"
+title: "Microbial Ecology"
 url_code: ""
 url_pdf: ""
 url_slides: ""
