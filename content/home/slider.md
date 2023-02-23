@@ -22,7 +22,7 @@ content:
         position: right
         color: '#666'
         brightness: 0.7
-        media: avatar.png
+        media: avatar.jpeg
         fit: cover
       link:
         icon: graduation-cap
@@ -37,7 +37,7 @@ content:
         position: center
         color: '#333'
         brightness: 0.5
-        media: avatar.png
+        media: avatar.jpeg
         fit: cover
       link:
         icon: graduation-cap
