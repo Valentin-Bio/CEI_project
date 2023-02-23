@@ -4,7 +4,7 @@ external_link: ""
 image:
   caption: Base cientifica de Bahía de Huinay, fiordo Comau
   focal_point: Smart
-
+weight: 10
 design:
  columns: '1'
 #links:

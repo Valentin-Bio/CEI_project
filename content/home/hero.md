@@ -2,10 +2,10 @@
 ---
 widget: hero
 headless: true  # This file represents a page section.
-
+active: false
 # Put Your Section Options Here (title, background, etc.) ...
 title: ""
-weight: 10 # Position of section on the page
+weight: 11 # Position of section on the page
 
 # Hero image (optional). Enter filename of an image in the assets/media/ folder.
 hero_media: 'avatar.png'

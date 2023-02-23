@@ -21,7 +21,7 @@ main:
     url: '#contact'
     weight: 60
   - name: "Members"
-    url: "/Members"
+    url: "/members"
     weight: 25
 
 
