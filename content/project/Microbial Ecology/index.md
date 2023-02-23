@@ -16,7 +16,7 @@ design:
 summary: ""
 tags:
 - ""
-title: "RL2 - Microbial Ecology"
+title: "RL1 - Microbial Ecology"
 url_code: ""
 url_pdf: ""
 url_slides: ""

@@ -13,7 +13,7 @@ image:
 summary: ""
 tags:
 - ""
-title: "RL1 - Plant Ecology and Evolution in Agroecosystems"
+title: "RL2 - Plant Ecology and Evolution in Agroecosystems"
 url_code: ""
 url_pdf: ""
 url_slides: ""

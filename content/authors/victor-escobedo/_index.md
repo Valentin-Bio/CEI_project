@@ -27,8 +27,8 @@ social:
 - icon: envelope
   icon_pack: fas
   link: vescobedo@utalca.cl
-- icon: chile
-  icon_pack: custom
+- icon: 🇨🇱
+  icon_pack: emoji
   link: ''
 
 

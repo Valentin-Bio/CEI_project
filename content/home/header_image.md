@@ -13,7 +13,7 @@ headless: true
 weight: 9
 
 title: "Centre for Integrative Ecology"
-subtitle: "CIE"
+subtitle: CIE
 
 design:
   columns: '1'
@@ -29,3 +29,6 @@ design:
 advanced:
   css_class: medium
 ---
+
+
+

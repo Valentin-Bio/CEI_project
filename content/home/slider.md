@@ -30,8 +30,8 @@ content:
         text: Research lines
         url: ./../project
     
-    - title: 
-      content: 'Meet the CIE!'
+    - title: Meet the CIE!
+      content: 
       align: left
       background:
         position: center
