@@ -21,9 +21,9 @@ social:
    icon_pack: fas
    link: jaimebioalarcon@gmail.com
    
- - icon: google-scholar
-   icon_pack: ai
-   link: https://www.scopus.com/authid/detail.uri?authorId=56489804400
+ - icon: researchgate
+   icon_pack: fab
+   link: https://www.researchgate.net/profile/Jaime-Alarcon-3
 superuser: true
 title: Dr. Jaime Alarcón
 user_groups: ["Postdoctoral Researchers"]
