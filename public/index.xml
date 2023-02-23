@@ -7,10 +7,75 @@
     <description>CIE</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://aesthetic-gecko-c65929.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://aesthetic-gecko-c65929.netlify.app/media/logo_hud6de4f7a474511623ec9af12b8d43403_58349_300x300_fit_lanczos_3.png</url>
       <title>CIE</title>
       <link>https://aesthetic-gecko-c65929.netlify.app/</link>
     </image>
+    
+    <item>
+      <title>RL1 - Microbial Ecology</title>
+      <link>https://aesthetic-gecko-c65929.netlify.app/project/microbial-ecology/</link>
+      <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://aesthetic-gecko-c65929.netlify.app/project/microbial-ecology/</guid>
+      <description>&lt;style&gt;
+ section{
+ background: #f8f2cc;
+ margin: 0px;
+ padding: 0px;
+ }
+
+
+ h2
+&lt;/style&gt;
+&lt;body&gt;
+&lt;p&gt;The diversity and functional significance of microbial communities have become apparent in the last 20 years. Microbial and viral communities dominate nearly every habitat on Earth from the deep ocean subsurface to the mountain tops and everything in between. Microbes contribute to planetary-level processes such as element cycling and to other organisms’ homeostasis such as humans and other non-human animals and plants. While recent advances in microscopy, nucleic acid sequencing, and microbial culturing, are enabling researchers worldwide to study microbial communities in the most varied environments, we continue to learn more about processes and mechanisms that govern microbial communities, both at the community and the molecular level. Likewise, microbial ecology is maturing into a discipline concerned not only with describing patterns and inferring processes, but also with manipulating and designing microbiomes.&lt;/p&gt;
+&lt;p&gt;
+	In the Center for Integrative Ecology, we approach microbial ecology at different levels of organization, from molecules, to populations, to communities, and traits. We focus on extreme environments from high latitudes or altitudes including Patagonian fjords and channels and desert environments such as Antarctica and the Atacama Desert in an effort to characterize and understand phylogenetic and functional diversity locally but with global impacts.  These extreme environments offer unparalleled opportunities to untangle microbial interactions and function. In Antarctica, for instance, we study origin, phylogeny and function of soil and rhizosphere microbes, including viruses. In this environment, only two vascular plants naturally occur, which turn this environment effectively in a natural laboratory for conducting microbial ecology. In the remote Patagonian fjords and channels, little is known about composition and diversity of microbial communities, let alone their functions and emerging properties such as resilience and resistance. And in the Atacama Desert, we know a great deal about microbial community composition and structure but much less about the functions microbes and viruses encode.
+&lt;/p&gt;
+&lt;p&gt;
+	In this area of research, we attempt to answer questions including but not limited to interactions between different ecosystems, populating the branches of the microbial and viral tree of life, and understanding how viruses exert control of microbial communities in terrestrial and aquatic ecosystems. Some of the questions are: How do microbial communities migrate? What is the relative contribution of soil or the phyllosphere to migration? How migrating microbes are incorporated to their new habitat? What is the coding potential of dark matter microbes and viruses? What mechanisms viruses use to bottom-up control microbial communities? What are the environmental consequences of bottom-up control for microbial services to ecosystems?
+	&lt;/p&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;section&gt;
+&lt;h2&gt;&lt;b&gt;Research topics of interest &lt;/b&gt; &lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;  Host-microbiome interactions &lt;/li&gt;
+&lt;li&gt;  Novel microorganisms and novel functions&lt;/li&gt;
+&lt;li&gt;  Spatial and temporary dynamics&lt;/li&gt;
+&lt;li&gt; Engineered and synthetic microbial communities &lt;/li&gt;
+&lt;/ul&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;h2&gt;&lt;b&gt;Postdoctoral researchers &lt;/b&gt; &lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://aesthetic-gecko-c65929.netlify.app/authors/sergio-guajardo/&#34;&gt;Dr. Sergio Guajardo&lt;/a&gt; - viromes, soil communities, bioinformatics&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://aesthetic-gecko-c65929.netlify.app/authors/jorge-gallardo/&#34;&gt;Dr. Jorge Gallardo&lt;/a&gt; – botany, yeasts, in situ experiments&lt;/p&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;h2&gt;&lt;b&gt;Graduate students &lt;/b&gt; &lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://aesthetic-gecko-c65929.netlify.app/authors/valentin-berrios/&#34;&gt;Valentín Berrios&lt;/a&gt; – bioinformatics, genomics, natural products, biosynthetic gene clusters&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://aesthetic-gecko-c65929.netlify.app/authors/felipe-bermudez/&#34;&gt;Felipe Bermudez&lt;/a&gt; – resilience, aquatic microbial communities, mesocosmos.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://aesthetic-gecko-c65929.netlify.app/authors/cristina-munoz/&#34;&gt;Cristina Muñoz&lt;/a&gt; – bioinformatics, genomics, aquatic microbial communities.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://aesthetic-gecko-c65929.netlify.app/authors/jaime-alarcon/&#34;&gt;Dr. Jaime Alarcón&lt;/a&gt; – phyllosphere, araucaria, biogeography.&lt;/p&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;h2&gt;&lt;b&gt;International collaborators&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://cbi.gwu.edu/keith-crandall&#34;&gt;Keith A. Crandall&lt;/a&gt; – The George Washington University&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://cbi.gwu.edu/marcos-perez-losada&#34;&gt;Marcos Pérez-Losada&lt;/a&gt; – The George Washington University&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://people.miami.edu/profile/b6f6679fa2fc5c3e713597da6eca8131&#34;&gt;Amy E. Zanne&lt;/a&gt; – University of Miami&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://physiology.med.cornell.edu/people/christopher-mason-ph-d/&#34;&gt;Christopher Mason&lt;/a&gt; – Weil Cornell Medicine&lt;/p&gt;
+&lt;/section&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;/body&gt;
+&lt;footer&gt; 
+&lt;h2&gt; Link to photography &lt;/h2&gt; 
+&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/qqigvuajub0ei0c/glaciarunion.031.jpeg?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.dropbox.com/s/qqigvuajub0ei0c/glaciarunion.031.jpeg?dl=0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/c34w5i5n9jd0ohe/glaciarunion02.jpeg?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.dropbox.com/s/c34w5i5n9jd0ohe/glaciarunion02.jpeg?dl=0&lt;/a&gt;&lt;/p&gt;
+&lt;/footer&gt; 
+</description>
+    </item>
     
     <item>
       <title>Example Talk</title>
@@ -29,6 +94,52 @@
 &lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RL2 - Plant Ecology and Evolution in Agroecosystems</title>
+      <link>https://aesthetic-gecko-c65929.netlify.app/project/plant-ecology-and-evolution-in-agroecosystems-/</link>
+      <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://aesthetic-gecko-c65929.netlify.app/project/plant-ecology-and-evolution-in-agroecosystems-/</guid>
+      <description>&lt;style&gt;
+
+ section{
+ background: #f8f2cc;
+ }
+
+
+
+&lt;/style&gt;
+&lt;body&gt;
+&lt;p&gt;
+Plants are the key as they produce most of the organic energy that sustain life and ecosystem processes on earth. This organic energy can be in live organisms or dead matter and sustain plant-based trophic food webs or detritus-based trophic webs. 
+Human activities are changing the entire planet at an unprecedented rate - so there is no ecosystem out of their influence. This is more relevant under the existing compromise between producing food for a growing wealthy population settled in even bigger cities and nature conservation. 
+Our interest is to investigate how plants survive, grow, and reproduce under environmental contexts characterized by the scarcity of resources (nutrients / water) and incidence of stress factors [some of natural origin (e.g., high temperatures, UV-B radiation, ozone) and others of anthropic origin (e.g., pesticides)]. In this regard, we are specifically interested in understanding what are the functions that symbiotic microorganisms fulfill in the ability of plants to accommodate / adapt to the abiotic environment and in particular, in defense against biotic threats (herbivores and pathogens). 
+Never before, two big impulses lead our work and fall under the umbrella of the ecology and evolution in agroecosystems: (1) The genuine interest in understanding the drivers behind the organization of nature – from genes to ecosystems, and (2) The necessity to find solutions to the global challenges such as climate change and food security. Our research integrates plant physiology and microbiology with ecology and evolution (which involve plant interaction with biotic threats (herbivores and pathogens) and abiotic stress factors. We are a fundamental piece in the society - running research projects and forming young scientist that will be in charge of solving the coming environmental issues.
+&lt;/p&gt;
+&lt;br&gt;
+&lt;section&gt;
+&lt;h2&gt;&lt;b&gt;Postdoctoral researchers&lt;/b&gt;&lt;/h2&gt;  
+&lt;p&gt;&lt;a href=&#34;https://aesthetic-gecko-c65929.netlify.app/authors/andrea-ueno/&#34;&gt;Dr. Andrea Ueno&lt;/a&gt; 2022-2024. Papel de las asociaciones simbióticas en relación maleza-cultivo bajo escenarios de cambio global: la batalla se intensifica. Postdoctoral fellowship supported by University of Talca, Chile.&lt;/p&gt;
+&lt;br&gt;
+&lt;h2&gt;&lt;b&gt;Doctoral researchers&lt;/b&gt;&lt;/h2&gt;  
+&lt;ul&gt;
+&lt;li&gt; &lt;a href=&#34;https://aesthetic-gecko-c65929.netlify.app/authors/frank-zarraga/&#34;&gt;Frank Zarraga&lt;/a&gt; 2022-2025. Respuestas transgeneracionales en plantas mediadas por microorganismos simbióticos de transmisión vertical. Doctoral fellowship supported by University of Talca, Chile.&lt;/li&gt;  
+&lt;/ul&gt;
+&lt;br&gt;
+&lt;h2&gt;&lt;b&gt;Technician&lt;/b&gt;&lt;/h2&gt;   
+&lt;ul&gt;
+&lt;li&gt; &lt;a href=&#34;https://aesthetic-gecko-c65929.netlify.app/authors/sebastian-gonzalez/&#34;&gt;Sebastian González&lt;/a&gt; He obtained his Doctorate in Science DBVB program at the Institute of Biological Sciences of the University of Talca, Chile. His expertise is on molecular biology. &lt;/li&gt; 
+&lt;/ul&gt;
+&lt;br&gt;
+&lt;h2&gt;&lt;b&gt;International collaborators&lt;/b&gt;&lt;/h2&gt; 
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.utm.utoronto.ca/cue/people/marc-johnson&#34;&gt;Professor Marc Johnson (PhD)&lt;/a&gt; – Director of the Centre for Urban Environments, University of Toronto Mississauga, Canada.&lt;/li&gt; 
+&lt;li&gt; &lt;a href=&#34;https://www.utu.fi/en/people/kari-saikkonen&#34;&gt; Professor Kari Saikkonen (PhD)&lt;/a&gt; – Biodiversity Unit of the University of Turku, Finland. &lt;/li&gt; 
+&lt;/ul&gt;
+&lt;/section&gt;
+&lt;/body&gt;
 </description>
     </item>
     
@@ -82,15 +193,6 @@
     </item>
     
     <item>
-      <title>Aplicaciones Biotecnológicas</title>
-      <link>https://aesthetic-gecko-c65929.netlify.app/project/aplicaciones-biotecnologicas/</link>
-      <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://aesthetic-gecko-c65929.netlify.app/project/aplicaciones-biotecnologicas/</guid>
-      <description>&lt;p&gt;Ante el cambio climático, el manejo de herramientas ecológicas para los procesos agrícolas y de conservación asegurará la integración de las dinámicas naturales y antrópicas para minimizar nuestro impacto hacia la sustentabilidad. Nos enfocamos en el desarrollo de la simbiosis funcional planta-microbio para la seguridad alimentaria y la restauración ecológica.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Hardening Blueberry Plants to Face Drought and Cold Events by the Application of Fungal Endophytes</title>
       <link>https://aesthetic-gecko-c65929.netlify.app/publication/acuna-rodriguez-hardening-2022/</link>
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
@@ -112,18 +214,6 @@
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
       <guid>https://aesthetic-gecko-c65929.netlify.app/publication/fuentes-influence-2022/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Biodiversidad de comunidades microbianas en la Antartica</title>
-      <link>https://aesthetic-gecko-c65929.netlify.app/project/biodiversidad-de-comunidades-microbianas-en-la-antartica/</link>
-      <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://aesthetic-gecko-c65929.netlify.app/project/biodiversidad-de-comunidades-microbianas-en-la-antartica/</guid>
-      <description>&lt;p&gt;La Antartica es el continente más alto, seco y frío de la Tierra. Sus características lo hacen inhóspito para la mayoría de las formas de vida multicelulares, sin embargo, los microbios están presentes en todos los nichos, desde los lagos submarinos hasta las raíces de las dos plantas vasculares nativas de la Antartica, Deschampsia antarctica y Colobanthus quitensis. En esta área de investigación, actualmente estamos trabajando en dos proyectos interrelacionados.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Origen de la rizosfera Antartica&lt;/strong&gt;. En el primer proyecto, queremos entender cuál es el origen de la rizosfera de estas dos especies de plantas, cuáles son las funciones genéticas que codifican y si brindan algún servicio a las plantas. Para ello, utilizamos como modelo un sitio de ZAEP, la península Byers, ubicada en el extremo occidental de la isla Livingston (Shetland del Sur), Antartica. Aquí, hemos tomado muestras de cuatro sitios que abarcan una variedad de condiciones, como que ambas plantas se presenten juntas o solas, cerca de la costa, cerca de un glaciar, etc. comunidades, así como la estabilidad temporal. También estamos enfocando nuestros esfuerzos en aislar los microbios más abundantes de la rizósfera para crear comunidades sintéticas en el laboratorio y probar hipótesis en un entorno experimental.&lt;/p&gt;
-&lt;p&gt;Sabemos que el sitio de muestreo y, en cierta medida, la proximidad entre sitios, juegan un papel en la composición y estructura de la comunidad microbiana. Los resultados preliminares también sugieren que la rizosfera se adquiere horizontalmente del suelo, de una manera un tanto específica.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Transporte a larga distancia de contaminantes y microbios&lt;/strong&gt;. El segundo proyecto es un esfuerzo de colaboración que involucra a investigadores de varias universidades de Chile, incluidas la Universidad de Chile, la Universidad de Talca y la P. Universidad Católica. El proyecto, denominado POLARIX, estudiará las teleconexiones entre la Antartica y el resto del mundo, utilizando como modelos los Contaminantes Orgánicos Persistentes y los microbios.&lt;/p&gt;
-</description>
     </item>
     
     <item>
@@ -160,16 +250,6 @@ a una ciudad regional del país.&lt;/p&gt;
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       <guid>https://aesthetic-gecko-c65929.netlify.app/publication/oses-pedraza-root-2020/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Patrones y procesos en fenómenos naturales</title>
-      <link>https://aesthetic-gecko-c65929.netlify.app/project/patrones-y-procesos-en-fenomenos-naturales/</link>
-      <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://aesthetic-gecko-c65929.netlify.app/project/patrones-y-procesos-en-fenomenos-naturales/</guid>
-      <description>&lt;p&gt;A través de la identificación de patrones naturales, nuestro objetivo es comprender las fuerzas ecológicas que impulsan la dinámica biológica de las plantas, particularmente en ambientes extremos, donde sus respuestas al estrés se llevan al límite de la especie.
-Usando los gradientes del paisaje como laboratorios naturales, enfocamos nuestra investigación en cambios funcionales diluidos en los rasgos de las plantas y su correlación con características específicas tanto del medio ambiente, como la bioquímica del suelo o el clima local, como de la especie, como su identidad genética o microbioma asociado.&lt;/p&gt;
-</description>
     </item>
     
     <item>
@@ -294,16 +374,6 @@ $$&lt;/p&gt;
 &lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Ecología microbiana y resistoma del fiordo Comau</title>
-      <link>https://aesthetic-gecko-c65929.netlify.app/project/ecologia-microbiana-y-resistoma-del-fiordo-comau/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://aesthetic-gecko-c65929.netlify.app/project/ecologia-microbiana-y-resistoma-del-fiordo-comau/</guid>
-      <description>&lt;p&gt;El Fiordo Comau es un sistema estuarino ubicado en el norte de la Patagonia (42ºS), Chile. En este proyecto de investigación, utilizamos el fiordo Comau como modelo de impacto antropogénico porque, mientras que la tierra que rodea el fiordo está protegida (parques nacionales; conservación privada), el fiordo en sí alberga la industria acuícola de salmón/trucha. La acuicultura en Chile es conocida por el uso de cantidades excesivas de antibióticos, donde estos se administran a través de alimentos medicados, y por lo tanto, el exceso va a las aguas de los fiordos donde impacta el ecosistema.&lt;/p&gt;
-&lt;p&gt;En este proyecto de investigación, queremos comprender la composición, estructura y diversidad taxonómica y funcional de las comunidades microbianas que habitan el fiordo. Hemos muestreado el fiordo de pies a cabeza a 5 y 20 m bajo el nivel del mar durante algunas temporadas para comprender los cambios a lo largo del año. También estamos realizando experimentos de mesocosmos para comprender la dinámica de la comunidad microbiana cuando se enfrenta a una alteración del pulso de los antibióticos.&lt;/p&gt;
 </description>
     </item>
     

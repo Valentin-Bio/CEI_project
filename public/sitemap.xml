@@ -4,11 +4,17 @@
   
   
   <url>
-    <loc>https://aesthetic-gecko-c65929.netlify.app/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://aesthetic-gecko-c65929.netlify.app/project/microbial-ecology/</loc><lastmod>2023-01-31T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://aesthetic-gecko-c65929.netlify.app/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><priority>0</priority></url>
   <url>
     <loc>https://aesthetic-gecko-c65929.netlify.app/talk/example-talk/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://aesthetic-gecko-c65929.netlify.app/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://aesthetic-gecko-c65929.netlify.app/project/</loc><lastmod>2023-01-31T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://aesthetic-gecko-c65929.netlify.app/project/plant-ecology-and-evolution-in-agroecosystems-/</loc><lastmod>2023-01-31T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://aesthetic-gecko-c65929.netlify.app/members/</loc><lastmod>2023-01-22T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -116,10 +122,6 @@
   <url>
     <loc>https://aesthetic-gecko-c65929.netlify.app/authors/youping-deng/</loc><lastmod>2022-07-03T19:46:37-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://aesthetic-gecko-c65929.netlify.app/project/aplicaciones-biotecnologicas/</loc><lastmod>2022-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://aesthetic-gecko-c65929.netlify.app/project/</loc><lastmod>2022-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://aesthetic-gecko-c65929.netlify.app/authors/gabriel-i.-ballesteros/</loc><lastmod>2022-07-03T19:46:37-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://aesthetic-gecko-c65929.netlify.app/publication/acuna-rodriguez-hardening-2022/</loc><lastmod>2022-07-03T19:46:37-04:00</lastmod><changefreq>weekly</changefreq></url>
@@ -142,6 +144,8 @@
   <url>
     <loc>https://aesthetic-gecko-c65929.netlify.app/authors/daniel-contreras/</loc><lastmod>2022-07-03T19:46:37-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://aesthetic-gecko-c65929.netlify.app/authors/jaime-alarcon/</loc><lastmod>2022-07-03T19:46:37-04:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://aesthetic-gecko-c65929.netlify.app/authors/erwin-klumpp/</loc><lastmod>2022-07-03T19:46:37-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://aesthetic-gecko-c65929.netlify.app/authors/francisco-gomez/</loc><lastmod>2022-07-03T19:46:37-04:00</lastmod><changefreq>weekly</changefreq></url>
@@ -154,8 +158,6 @@
   <url>
     <loc>https://aesthetic-gecko-c65929.netlify.app/publication/fuentes-influence-2022/</loc><lastmod>2022-07-03T19:46:37-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://aesthetic-gecko-c65929.netlify.app/authors/jaime-alarcon/</loc><lastmod>2022-07-03T19:46:37-04:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://aesthetic-gecko-c65929.netlify.app/authors/jorg-prietzel/</loc><lastmod>2022-07-03T19:46:37-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://aesthetic-gecko-c65929.netlify.app/authors/ramona-morchen/</loc><lastmod>2022-07-03T19:46:37-04:00</lastmod><changefreq>weekly</changefreq></url>
@@ -165,8 +167,6 @@
     <loc>https://aesthetic-gecko-c65929.netlify.app/authors/wantana-klysubun/</loc><lastmod>2022-07-03T19:46:37-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://aesthetic-gecko-c65929.netlify.app/authors/wulf-amelung/</loc><lastmod>2022-07-03T19:46:37-04:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://aesthetic-gecko-c65929.netlify.app/project/biodiversidad-de-comunidades-microbianas-en-la-antartica/</loc><lastmod>2022-01-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://aesthetic-gecko-c65929.netlify.app/authors/alex-fajardo/</loc><lastmod>2022-07-03T19:46:37-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -208,15 +208,9 @@
   <url>
     <loc>https://aesthetic-gecko-c65929.netlify.app/publication/oses-pedraza-root-2020/</loc><lastmod>2022-07-03T19:46:37-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://aesthetic-gecko-c65929.netlify.app/project/patrones-y-procesos-en-fenomenos-naturales/</loc><lastmod>2019-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://aesthetic-gecko-c65929.netlify.app/slides/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://aesthetic-gecko-c65929.netlify.app/slides/example/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://aesthetic-gecko-c65929.netlify.app/project/ecologia-microbiana-y-resistoma-del-fiordo-comau/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://aesthetic-gecko-c65929.netlify.app/authors/andrea-barrera/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://aesthetic-gecko-c65929.netlify.app/categories/</loc><changefreq>weekly</changefreq></url>
   <url>
@@ -244,9 +238,13 @@
   <url>
     <loc>https://aesthetic-gecko-c65929.netlify.app/authors/felipe-bermudez/</loc><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://aesthetic-gecko-c65929.netlify.app/authors/frank-zarraga/</loc><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://aesthetic-gecko-c65929.netlify.app/authors/maria-jose-romero/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://aesthetic-gecko-c65929.netlify.app/authors/roberto-mino/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://aesthetic-gecko-c65929.netlify.app/authors/sebastian-gonzalez/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://aesthetic-gecko-c65929.netlify.app/tags/</loc><changefreq>weekly</changefreq></url>
   <url>
