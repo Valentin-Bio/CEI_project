@@ -2,16 +2,16 @@
 bio: 
 education:
  courses:
- - course: Ph.D. In Agricultural Sciences
-   institution: Universidad de Buenos Aires
- - course: B.Sc. in Enviromental Sciences
-   institution: Universidad de Buenos Aires  
-email: "andrea.ueno@utalca.cl"
+ - course: Ph.D. in Molecular Biosciences
+   institution: Universidad Andrés Bello
+ - course: B.Sc. in Biology
+   institution: Universidad de Concepción
+email: "jaimebioalarcon@gmail.com"
 highlight_name: true
 interests:
-- Plant Ecophysiology
-- Interactions between plants and microorganisms 
-- Environmental stressors
+- Molecular Biology
+- Microbial Ecology
+- Bioinformatics
 organizations:
 - name: Universidad de Talca
   url: https://www.utalca.cl/
@@ -19,7 +19,7 @@ role: POST DOC
 social:
  - icon: envelope
    icon_pack: fas
-   link: andrea.ueno@utalca.cl
+   link: jaimebioalarcon@gmail.com
    
  - icon: google-scholar
    icon_pack: ai
