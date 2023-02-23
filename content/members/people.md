@@ -8,7 +8,7 @@ content:
   - Doctoral Students
   - Research Assistants
   - Visitors
-  - Alumni
+  - Collaborators
 design:
   show_interests: false
   show_role: true

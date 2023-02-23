@@ -7,27 +7,26 @@ date: "2020-12-13T00:00:00Z"
 draft: false
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: 'Image credit: **Valentin Berrios**'
   focal_point: ""
   placement: 2
   preview_only: false
 lastmod: "2020-12-13T00:00:00Z"
 projects: []
-subtitle: "MetaSUB consiste en un proyecto de investigación mundial el cual tiene como objetivo 
-descifrar la microbiota urbana alrededor de las ciudades del mundo. Hasta la fecha, esta iniciativa se ha propagado a lo largo de todos los continentes incluyendo la antartica."
-summary: "MetaSUB consiste en unpryecto de investigación mundial el cual tiene como objetivo 
-decifrar la microbiota urbana alrededor de las ciudades del mundo. Hasta la fecha, esta iniciativa se ha propagado a lo largo de todos los continentes incluyendo la antartica."
+subtitle: "MetaSUB consists of a global research project which aims to
+deciphering the urban microbiota around the cities of the world. To date, this initiative has spread across all continents, including Antarctica."
 
-title: Primer dia de toma de muestras MetaSUB en Talca
+summary: "MetaSUB consists of a global research project which aims to
+deciphering the urban microbiota around the cities of the world. To date, this initiative has spread across all continents, including Antarctica."
+
+title: First instance of Talca MetaSUB sampling day
 ---
 
-El muestreo ha sido organizado en Chile desde el año 2015 exclusivamente en Santiago a lo largo de distintas coomunas con la finalidad de estudiar y representar el microbioma urbano de la ciudad. Sin
-embargo este año 2022, a manos del Dr Eduardo Castro, la iniciativa se ha exttapolado por primera vez
-a una ciudad regional del país. 
+Sampling has been organized in Chile since 2015 exclusively in Santiago throughout different communes in order to study and represent the urban microbiome of the city. Without
+However, this year 2022, at the hands of Dr. Eduardo Castro, the initiative has been extended for the first time
+to a regional city of the country.
 
-Nueve integrantes del centro de investigaciones se desplegaron por sitios urbanos concurridos de la ciudad de Talca tomando muestras del microbioma de diversas superficies de la ciudad.  
-
-
+Nine members of the research center were deployed through crowded urban sites in the city of Talca, taking samples of the microbiome from various surfaces in the city.
 
 
 

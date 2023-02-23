@@ -16,7 +16,7 @@ interests:
 organizations:
 - name: Universidad de Talca
   url: https://www.utalca.cl/
-role: Associate professor
+role: Full professor
 social:
  - icon: envelope
    icon_pack: fas
