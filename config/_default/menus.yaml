@@ -10,7 +10,7 @@ main:
   - name: News
     url: '#posts'
     weight: 50
-  - name: Research lines
+  - name: Research 
     url: '#projects'
     weight: 20
 
