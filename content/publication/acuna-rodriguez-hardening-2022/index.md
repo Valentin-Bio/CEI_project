@@ -14,7 +14,7 @@ authors:
 tags: []
 categories: []
 date: '2022-04-01'
-lastmod: 2022-07-03T19:46:37-04:00
+lastmod: 2023-02-24T11:36:51-03:00
 featured: false
 draft: false
 
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-03T23:59:11.300351Z'
+publishDate: '2023-02-24T14:36:51.428410Z'
 publication_types:
 - '2'
 abstract: Harsh environmental conditions derived from current climate change trends

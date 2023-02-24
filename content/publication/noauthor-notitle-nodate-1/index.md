@@ -1,21 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Seed functional traits in cultivars of tall fescue (Schedonorus arundinaceus)
-  are affected by the non-toxic fungal endophyte AR584
-subtitle: ''
-summary: ''
-authors:
-- Mailen A. Riveira Rubin
-- Andrea C. Ueno
-- Diego Batlla
-- Leopoldo J. Iannone
-- María A. Martínez-Ghersa
-- Pedro E. Gundel
+title: "Noauthor Notitle Nodate 1"
+subtitle: ""
+summary: ""
+authors: []
 tags: []
 categories: []
-date: '2022-01-01'
-lastmod: 2023-02-24T11:36:51-03:00
+date: 2023-02-24T11:36:52-03:00
+lastmod: 2023-02-24T11:36:52-03:00
 featured: false
 draft: false
 
@@ -23,8 +16,8 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ''
-  focal_point: ''
+  caption: ""
+  focal_point: ""
   preview_only: false
 
 # Projects (optional).
@@ -33,13 +26,4 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-02-24T14:36:51.616768Z'
-publication_types:
-- '2'
-abstract: ''
-publication: '*Crop and Pasture Science*'
-doi: 10.1071/CP21736
-links:
-- name: URL
-  url: http://www.publish.csiro.au/?paper=CP21736
 ---
