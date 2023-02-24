@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dr. Ian Acuña | CIE</title>
-    <link>https://aesthetic-gecko-c65929.netlify.app/authors/ian-acuna/</link>
-      <atom:link href="https://aesthetic-gecko-c65929.netlify.app/authors/ian-acuna/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cie-website.netlify.app/authors/ian-acuna/</link>
+      <atom:link href="https://cie-website.netlify.app/authors/ian-acuna/index.xml" rel="self" type="application/rss+xml" />
     <description>Dr. Ian Acuña</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language>
     <image>
-      <url>https://aesthetic-gecko-c65929.netlify.app/authors/ian-acuna/avatar_huf7e4e6f07f5d1b33fb6766cee4b77e88_204638_270x270_fill_q75_lanczos_center.jpeg</url>
+      <url>https://cie-website.netlify.app/authors/ian-acuna/avatar_huf7e4e6f07f5d1b33fb6766cee4b77e88_204638_270x270_fill_q75_lanczos_center.jpeg</url>
       <title>Dr. Ian Acuña</title>
-      <link>https://aesthetic-gecko-c65929.netlify.app/authors/ian-acuna/</link>
+      <link>https://cie-website.netlify.app/authors/ian-acuna/</link>
     </image>
     
   </channel>

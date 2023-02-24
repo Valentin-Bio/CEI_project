@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cristina Muñoz | CIE</title>
-    <link>https://aesthetic-gecko-c65929.netlify.app/authors/cristina-munoz/</link>
-      <atom:link href="https://aesthetic-gecko-c65929.netlify.app/authors/cristina-munoz/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cie-website.netlify.app/authors/cristina-munoz/</link>
+      <atom:link href="https://cie-website.netlify.app/authors/cristina-munoz/index.xml" rel="self" type="application/rss+xml" />
     <description>Cristina Muñoz</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language>
     <image>
-      <url>https://aesthetic-gecko-c65929.netlify.app/authors/cristina-munoz/avatar_hu3f50161fbf4533d7241aace49e0b4d7c_593495_270x270_fill_q75_lanczos_center.JPG</url>
+      <url>https://cie-website.netlify.app/authors/cristina-munoz/avatar_hu3f50161fbf4533d7241aace49e0b4d7c_593495_270x270_fill_q75_lanczos_center.JPG</url>
       <title>Cristina Muñoz</title>
-      <link>https://aesthetic-gecko-c65929.netlify.app/authors/cristina-munoz/</link>
+      <link>https://cie-website.netlify.app/authors/cristina-munoz/</link>
     </image>
     
   </channel>

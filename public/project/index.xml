@@ -2,21 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | CIE</title>
-    <link>https://aesthetic-gecko-c65929.netlify.app/project/</link>
-      <atom:link href="https://aesthetic-gecko-c65929.netlify.app/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cie-website.netlify.app/project/</link>
+      <atom:link href="https://cie-website.netlify.app/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language><lastBuildDate>Tue, 31 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://aesthetic-gecko-c65929.netlify.app/media/logo_hud6de4f7a474511623ec9af12b8d43403_58349_300x300_fit_lanczos_3.png</url>
+      <url>https://cie-website.netlify.app/media/logo_hud6de4f7a474511623ec9af12b8d43403_58349_300x300_fit_lanczos_3.png</url>
       <title>Projects</title>
-      <link>https://aesthetic-gecko-c65929.netlify.app/project/</link>
+      <link>https://cie-website.netlify.app/project/</link>
     </image>
     
     <item>
-      <title>RL1 - Microbial Ecology</title>
-      <link>https://aesthetic-gecko-c65929.netlify.app/project/microbial-ecology/</link>
+      <title>Astroecology</title>
+      <link>https://cie-website.netlify.app/project/astroecology/</link>
       <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://aesthetic-gecko-c65929.netlify.app/project/microbial-ecology/</guid>
+      <guid>https://cie-website.netlify.app/project/astroecology/</guid>
+      <description>&lt;p&gt;&lt;/style&gt;&lt;/p&gt;
+&lt;body&gt;
+&lt;p&gt;
+Astroecology is a research field devoted to scientific study of the interactions of life with extreme environments even exoplanetary conditions. By applying theory, methods and technology from ecology, microbiology, molecular biology, and engineering, we aim to help solve major global challenges such as extreme climate change and space-research stuff. Astroecology is a rapidly developing field with a strong interdisciplinary aspect that holds many challenges and opportunities for scientists. Indeed, technological advances have made possible long space travels and even exoplanetary colonies in the future. Nevertheless, the success of these activities depends on our ability to produce edible plants in stressful conditions such as high radiation, extreme temperatures, and low oxygen levels. In fact, several beneficial microorganisms, such as those inhabiting extreme environments, have helped agriculture cope with those difficulties. Thus, extremophiles may be a putative tool to ensure plant growth under exoplanetary conditions. In addition, microgravity is other constraint imposed to crops in space travel, in this sense microorganisms from extreme environments would help to cope with this factor for many plants, due the switch-on of different biochemical pathways and molecular responses by part of these extremophiles. Thus, our main aims are devoted to assesses the ecological, biochemical, and molecular responses of extremophiles inhabiting from environments such as the Antarctica, High-Mountains or Atacama Desert exposed to exoplanetary conditions, to search and select microorganisms able to act as a key biotechnological tool for future space agriculture, and helping plants cope with harsh environmental conditions as those find at beyond of the Earth.
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;section&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;/section&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;/body&gt;
+&lt;footer&gt; 
+&lt;/footer&gt; 
+</description>
+    </item>
+    
+    <item>
+      <title>Microbial Ecology</title>
+      <link>https://cie-website.netlify.app/project/microbial-ecology/</link>
+      <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://cie-website.netlify.app/project/microbial-ecology/</guid>
       <description>&lt;style&gt;
  section{
  background: #f8f2cc;
@@ -49,15 +73,15 @@
 &lt;br&gt;
 &lt;br&gt;
 &lt;h2&gt;&lt;b&gt;Postdoctoral researchers &lt;/b&gt; &lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://aesthetic-gecko-c65929.netlify.app/authors/sergio-guajardo/&#34;&gt;Dr. Sergio Guajardo&lt;/a&gt; - viromes, soil communities, bioinformatics&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://aesthetic-gecko-c65929.netlify.app/authors/jorge-gallardo/&#34;&gt;Dr. Jorge Gallardo&lt;/a&gt; – botany, yeasts, in situ experiments&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://cie-website.netlify.app/authors/sergio-guajardo/&#34;&gt;Dr. Sergio Guajardo&lt;/a&gt; - viromes, soil communities, bioinformatics&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://cie-website.netlify.app/authors/jorge-gallardo/&#34;&gt;Dr. Jorge Gallardo&lt;/a&gt; – botany, yeasts, in situ experiments&lt;/p&gt;
 &lt;br&gt;
 &lt;br&gt;
 &lt;h2&gt;&lt;b&gt;Graduate students &lt;/b&gt; &lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://aesthetic-gecko-c65929.netlify.app/authors/valentin-berrios/&#34;&gt;Valentín Berrios&lt;/a&gt; – bioinformatics, genomics, natural products, biosynthetic gene clusters&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://aesthetic-gecko-c65929.netlify.app/authors/felipe-bermudez/&#34;&gt;Felipe Bermudez&lt;/a&gt; – resilience, aquatic microbial communities, mesocosmos.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://aesthetic-gecko-c65929.netlify.app/authors/cristina-munoz/&#34;&gt;Cristina Muñoz&lt;/a&gt; – bioinformatics, genomics, aquatic microbial communities.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://aesthetic-gecko-c65929.netlify.app/authors/jaime-alarcon/&#34;&gt;Dr. Jaime Alarcón&lt;/a&gt; – phyllosphere, araucaria, biogeography.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://cie-website.netlify.app/authors/valentin-berrios/&#34;&gt;Valentín Berrios&lt;/a&gt; – bioinformatics, genomics, natural products, biosynthetic gene clusters&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://cie-website.netlify.app/authors/felipe-bermudez/&#34;&gt;Felipe Bermudez&lt;/a&gt; – resilience, aquatic microbial communities, mesocosmos.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://cie-website.netlify.app/authors/cristina-munoz/&#34;&gt;Cristina Muñoz&lt;/a&gt; – bioinformatics, genomics, aquatic microbial communities.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://cie-website.netlify.app/authors/jaime-alarcon/&#34;&gt;Dr. Jaime Alarcón&lt;/a&gt; – phyllosphere, araucaria, biogeography.&lt;/p&gt;
 &lt;br&gt;
 &lt;br&gt;
 &lt;h2&gt;&lt;b&gt;International collaborators&lt;/b&gt;&lt;/h2&gt;
@@ -78,10 +102,10 @@
     </item>
     
     <item>
-      <title>RL2 - Plant Ecology and Evolution in Agroecosystems</title>
-      <link>https://aesthetic-gecko-c65929.netlify.app/project/plant-ecology-and-evolution-in-agroecosystems-/</link>
+      <title>Plant Ecology and Evolution in Agroecosystems</title>
+      <link>https://cie-website.netlify.app/project/plant-ecology-and-evolution-in-agroecosystems-/</link>
       <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://aesthetic-gecko-c65929.netlify.app/project/plant-ecology-and-evolution-in-agroecosystems-/</guid>
+      <guid>https://cie-website.netlify.app/project/plant-ecology-and-evolution-in-agroecosystems-/</guid>
       <description>&lt;style&gt;
 
  section{
@@ -101,16 +125,16 @@ Never before, two big impulses lead our work and fall under the umbrella of the 
 &lt;br&gt;
 &lt;section&gt;
 &lt;h2&gt;&lt;b&gt;Postdoctoral researchers&lt;/b&gt;&lt;/h2&gt;  
-&lt;p&gt;&lt;a href=&#34;https://aesthetic-gecko-c65929.netlify.app/authors/andrea-ueno/&#34;&gt;Dr. Andrea Ueno&lt;/a&gt; 2022-2024. Papel de las asociaciones simbióticas en relación maleza-cultivo bajo escenarios de cambio global: la batalla se intensifica. Postdoctoral fellowship supported by University of Talca, Chile.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://cie-website.netlify.app/authors/andrea-ueno/&#34;&gt;Dr. Andrea Ueno&lt;/a&gt; 2022-2024. Papel de las asociaciones simbióticas en relación maleza-cultivo bajo escenarios de cambio global: la batalla se intensifica. Postdoctoral fellowship supported by University of Talca, Chile.&lt;/p&gt;
 &lt;br&gt;
 &lt;h2&gt;&lt;b&gt;Doctoral researchers&lt;/b&gt;&lt;/h2&gt;  
 &lt;ul&gt;
-&lt;li&gt; &lt;a href=&#34;https://aesthetic-gecko-c65929.netlify.app/authors/frank-zarraga/&#34;&gt;Frank Zarraga&lt;/a&gt; 2022-2025. Respuestas transgeneracionales en plantas mediadas por microorganismos simbióticos de transmisión vertical. Doctoral fellowship supported by University of Talca, Chile.&lt;/li&gt;  
+&lt;li&gt; &lt;a href=&#34;https://cie-website.netlify.app/authors/frank-zarraga/&#34;&gt;Frank Zarraga&lt;/a&gt; 2022-2025. Respuestas transgeneracionales en plantas mediadas por microorganismos simbióticos de transmisión vertical. Doctoral fellowship supported by University of Talca, Chile.&lt;/li&gt;  
 &lt;/ul&gt;
 &lt;br&gt;
 &lt;h2&gt;&lt;b&gt;Technician&lt;/b&gt;&lt;/h2&gt;   
 &lt;ul&gt;
-&lt;li&gt; &lt;a href=&#34;https://aesthetic-gecko-c65929.netlify.app/authors/sebastian-gonzalez/&#34;&gt;Sebastian González&lt;/a&gt; He obtained his Doctorate in Science DBVB program at the Institute of Biological Sciences of the University of Talca, Chile. His expertise is on molecular biology. &lt;/li&gt; 
+&lt;li&gt; &lt;a href=&#34;https://cie-website.netlify.app/authors/sebastian-gonzalez/&#34;&gt;Sebastian González&lt;/a&gt; He obtained his Doctorate in Science DBVB program at the Institute of Biological Sciences of the University of Talca, Chile. His expertise is on molecular biology. &lt;/li&gt; 
 &lt;/ul&gt;
 &lt;br&gt;
 &lt;h2&gt;&lt;b&gt;International collaborators&lt;/b&gt;&lt;/h2&gt; 

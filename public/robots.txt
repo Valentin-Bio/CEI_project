@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://aesthetic-gecko-c65929.netlify.app/sitemap.xml
+Sitemap: https://cie-website.netlify.app/sitemap.xml

@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dr. Sergio Guajardo | CIE</title>
-    <link>https://aesthetic-gecko-c65929.netlify.app/authors/sergio-guajardo/</link>
-      <atom:link href="https://aesthetic-gecko-c65929.netlify.app/authors/sergio-guajardo/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cie-website.netlify.app/authors/sergio-guajardo/</link>
+      <atom:link href="https://cie-website.netlify.app/authors/sergio-guajardo/index.xml" rel="self" type="application/rss+xml" />
     <description>Dr. Sergio Guajardo</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language>
     <image>
-      <url>https://aesthetic-gecko-c65929.netlify.app/authors/sergio-guajardo/avatar_hubc4e91ef22bbb4beb460f8399c6341e5_1265488_270x270_fill_q75_lanczos_center.jpeg</url>
+      <url>https://cie-website.netlify.app/authors/sergio-guajardo/avatar_hubc4e91ef22bbb4beb460f8399c6341e5_1265488_270x270_fill_q75_lanczos_center.jpeg</url>
       <title>Dr. Sergio Guajardo</title>
-      <link>https://aesthetic-gecko-c65929.netlify.app/authors/sergio-guajardo/</link>
+      <link>https://cie-website.netlify.app/authors/sergio-guajardo/</link>
     </image>
     
   </channel>

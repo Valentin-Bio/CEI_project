@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dr. Marc Johnson | CIE</title>
+    <link>https://cie-website.netlify.app/authors/marc-johnson/</link>
+      <atom:link href="https://cie-website.netlify.app/authors/marc-johnson/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dr. Marc Johnson</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language>
+    <image>
+      <url>https://cie-website.netlify.app/authors/marc-johnson/avatar_hu33b39e2ff563077736f800191ab0b288_224359_270x270_fill_lanczos_center_3.png</url>
+      <title>Dr. Marc Johnson</title>
+      <link>https://cie-website.netlify.app/authors/marc-johnson/</link>
+    </image>
+    
+  </channel>
+</rss>

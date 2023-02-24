@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | CIE</title>
-    <link>https://aesthetic-gecko-c65929.netlify.app/categories/</link>
-      <atom:link href="https://aesthetic-gecko-c65929.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cie-website.netlify.app/categories/</link>
+      <atom:link href="https://cie-website.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language>
     <image>
-      <url>https://aesthetic-gecko-c65929.netlify.app/media/logo_hud6de4f7a474511623ec9af12b8d43403_58349_300x300_fit_lanczos_3.png</url>
+      <url>https://cie-website.netlify.app/media/logo_hud6de4f7a474511623ec9af12b8d43403_58349_300x300_fit_lanczos_3.png</url>
       <title>Categories</title>
-      <link>https://aesthetic-gecko-c65929.netlify.app/categories/</link>
+      <link>https://cie-website.netlify.app/categories/</link>
     </image>
     
   </channel>

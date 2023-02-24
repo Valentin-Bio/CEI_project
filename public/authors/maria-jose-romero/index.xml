@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Maria José Romero | CIE</title>
-    <link>https://aesthetic-gecko-c65929.netlify.app/authors/maria-jose-romero/</link>
-      <atom:link href="https://aesthetic-gecko-c65929.netlify.app/authors/maria-jose-romero/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cie-website.netlify.app/authors/maria-jose-romero/</link>
+      <atom:link href="https://cie-website.netlify.app/authors/maria-jose-romero/index.xml" rel="self" type="application/rss+xml" />
     <description>Maria José Romero</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language>
     <image>
-      <url>https://aesthetic-gecko-c65929.netlify.app/authors/maria-jose-romero/avatar_huda2d98b19b4578f8967e55a9a0ad5fef_193104_270x270_fill_q75_lanczos_center.jpeg</url>
+      <url>https://cie-website.netlify.app/authors/maria-jose-romero/avatar_huda2d98b19b4578f8967e55a9a0ad5fef_193104_270x270_fill_q75_lanczos_center.jpeg</url>
       <title>Maria José Romero</title>
-      <link>https://aesthetic-gecko-c65929.netlify.app/authors/maria-jose-romero/</link>
+      <link>https://cie-website.netlify.app/authors/maria-jose-romero/</link>
     </image>
     
   </channel>

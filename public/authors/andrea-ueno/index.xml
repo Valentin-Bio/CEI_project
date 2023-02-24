@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dr. Andrea Ueno | CIE</title>
-    <link>https://aesthetic-gecko-c65929.netlify.app/authors/andrea-ueno/</link>
-      <atom:link href="https://aesthetic-gecko-c65929.netlify.app/authors/andrea-ueno/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cie-website.netlify.app/authors/andrea-ueno/</link>
+      <atom:link href="https://cie-website.netlify.app/authors/andrea-ueno/index.xml" rel="self" type="application/rss+xml" />
     <description>Dr. Andrea Ueno</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language>
     <image>
-      <url>https://aesthetic-gecko-c65929.netlify.app/authors/andrea-ueno/avatar_hu696aa084c30d369b0ecc712d1e6d1648_475231_270x270_fill_lanczos_center_3.png</url>
+      <url>https://cie-website.netlify.app/authors/andrea-ueno/avatar_hu696aa084c30d369b0ecc712d1e6d1648_475231_270x270_fill_lanczos_center_3.png</url>
       <title>Dr. Andrea Ueno</title>
-      <link>https://aesthetic-gecko-c65929.netlify.app/authors/andrea-ueno/</link>
+      <link>https://cie-website.netlify.app/authors/andrea-ueno/</link>
     </image>
     
   </channel>

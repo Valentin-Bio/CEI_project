@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Frank Zarraga | CIE</title>
-    <link>https://aesthetic-gecko-c65929.netlify.app/authors/frank-zarraga/</link>
-      <atom:link href="https://aesthetic-gecko-c65929.netlify.app/authors/frank-zarraga/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cie-website.netlify.app/authors/frank-zarraga/</link>
+      <atom:link href="https://cie-website.netlify.app/authors/frank-zarraga/index.xml" rel="self" type="application/rss+xml" />
     <description>Frank Zarraga</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language>
     <image>
-      <url>https://aesthetic-gecko-c65929.netlify.app/authors/frank-zarraga/avatar_hu6fb8a4b8f1bf0db0410f7c390f5e68ab_185423_270x270_fill_q75_lanczos_center.jpeg</url>
+      <url>https://cie-website.netlify.app/authors/frank-zarraga/avatar_hu6fb8a4b8f1bf0db0410f7c390f5e68ab_185423_270x270_fill_q75_lanczos_center.jpeg</url>
       <title>Frank Zarraga</title>
-      <link>https://aesthetic-gecko-c65929.netlify.app/authors/frank-zarraga/</link>
+      <link>https://cie-website.netlify.app/authors/frank-zarraga/</link>
     </image>
     
   </channel>
