@@ -39,5 +39,6 @@ design:
    image: biotech.png
    image_size: actual
    image_position: left
+   image_parallax: false
   
 ---
