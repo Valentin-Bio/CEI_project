@@ -33,7 +33,7 @@ content:
 
 design:
   # Choose a view for the listings:
-  view: card
+  view: compact
   columns: '2'
   background: 
    image: biotech.png
