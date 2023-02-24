@@ -35,4 +35,9 @@ design:
   # Choose a view for the listings:
   view: card
   columns: '2'
+  background: 
+   image: biotech.png
+   image_size: actual
+   image_position: left
+  
 ---

@@ -5,24 +5,24 @@
 
 main:
   - name: Home
-    url: '#slider'
+    url: '#hero'
     weight: 10
   - name: News
     url: '#posts'
-    weight: 20
+    weight: 50
   - name: Research lines
     url: '#projects'
-    weight: 30
+    weight: 20
 
   - name: Publications
     url: '/Publicaciones'
-    weight: 80
+    weight: 40
   - name: Contact
     url: '#contact'
     weight: 60
   - name: "Members"
     url: "/members"
-    weight: 25
+    weight: 30
 
 
 

@@ -2,7 +2,7 @@
 ---
 widget: hero
 headless: true  # This file represents a page section.
-active: false
+active: true
 # Put Your Section Options Here (title, background, etc.) ...
 title: ""
 weight: 11 # Position of section on the page
@@ -31,6 +31,7 @@ design:
     gradient_end: '#8fe08d'
     gradient_start: '#e7e691'
     text_color_light: true
+  image: avatar.png  
 
 
 
@@ -44,9 +45,10 @@ The vast and complex set of factors behind any natural process usually requires 
 
 
 <section>
-{{< figure src="utalca_logo_noback.png" id="university-logo" width="10%">}}
+
 </section>
 <br>
-<a href="https://www.utalca.cl/" style= "color: green; margin-left: 10px"> Universidad de Talca </a>
+
+
 
 
