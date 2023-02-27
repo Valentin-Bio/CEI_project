@@ -22,10 +22,10 @@ content:
       id:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+      captcha: true
 
   # Contact details (edit or remove options as required)
-  email: ecastron@utalca.cl
+  email: v.berriosfarias@gmail.com
   phone: ""
   address:
     street: Avenida Lircay s/n, campus Talca
