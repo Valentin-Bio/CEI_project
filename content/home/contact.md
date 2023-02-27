@@ -23,7 +23,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: v.berriosfarias@gmail.com
+  email: ''
   phone: ""
   address:
     street: Avenida Lircay s/n, campus Talca
