@@ -1,0 +1,717 @@
+---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
+title: A global metagenomic map of urban microbiomes and antimicrobial resistance
+subtitle: ''
+summary: ''
+authors:
+- David Danko
+- Daniela Bezdan
+- Evan E. Afshin
+- Sofia Ahsanuddin
+- Chandrima Bhattacharya
+- Daniel J. Butler
+- Kern Rei Chng
+- Daisy Donnellan
+- Jochen Hecht
+- Katelyn Jackson
+- Katerina Kuchin
+- Mikhail Karasikov
+- Abigail Lyons
+- Lauren Mak
+- Dmitry Meleshko
+- Harun Mustafa
+- Beth Mutai
+- Russell Y. Neches
+- Amanda Ng
+- Olga Nikolayeva
+- Tatyana Nikolayeva
+- Eileen Png
+- Krista A. Ryon
+- Jorge L. Sanchez
+- Heba Shaaban
+- Maria A. Sierra
+- Dominique Thomas
+- Ben Young
+- Omar O. Abudayyeh
+- Josue Alicea
+- Malay Bhattacharyya
+- Ran Blekhman
+- Eduardo Castro-Nallar
+- Ana M. Cañas
+- Aspassia D. Chatziefthimiou
+- Robert W. Crawford
+- Francesca De Filippis
+- Youping Deng
+- Christelle Desnues
+- Emmanuel Dias-Neto
+- Marius Dybwad
+- Eran Elhaik
+- Danilo Ercolini
+- Alina Frolova
+- Dennis Gankin
+- Jonathan S. Gootenberg
+- Alexandra B. Graf
+- David C. Green
+- Iman Hajirasouliha
+- Jaden J.A. Hastings
+- Mark Hernandez
+- Gregorio Iraola
+- Soojin Jang
+- Andre Kahles
+- Frank J. Kelly
+- Kaymisha Knights
+- Nikos C. Kyrpides
+- Paweł P. Łabaj
+- Patrick K.H. Lee
+- Marcus H.Y. Leung
+- Per O. Ljungdahl
+- Gabriella Mason-Buck
+- Ken McGrath
+- Cem Meydan
+- Emmanuel F. Mongodin
+- Milton Ozorio Moraes
+- Niranjan Nagarajan
+- Marina Nieto-Caballero
+- Houtan Noushmehr
+- Manuela Oliveira
+- Stephan Ossowski
+- Olayinka O. Osuolale
+- Orhan Özcan
+- David Paez-Espino
+- Nicolás Rascovan
+- Hugues Richard
+- Gunnar Rätsch
+- Lynn M. Schriml
+- Torsten Semmler
+- Osman U. Sezerman
+- Leming Shi
+- Tieliu Shi
+- Rania Siam
+- Le Huu Song
+- Haruo Suzuki
+- Denise Syndercombe Court
+- Scott W. Tighe
+- Xinzhao Tong
+- Klas I. Udekwu
+- Juan A. Ugalde
+- Brandon Valentine
+- Dimitar I. Vassilev
+- Elena M. Vayndorf
+- Thirumalaisamy P. Velavan
+- Jun Wu
+- María M. Zambrano
+- Jifeng Zhu
+- Sibo Zhu
+- Christopher E. Mason
+- Natasha Abdullah
+- Marcos Abraao
+- Ait-hamlat Adel
+- Muhammad Afaq
+- Faisal S. Al-Quaddoomi
+- Ireen Alam
+- Gabriela E. Albuquerque
+- Alex Alexiev
+- Kalyn Ali
+- Lucia E. Alvarado-Arnez
+- Sarh Aly
+- Jennifer Amachee
+- Maria G. Amorim
+- Majelia Ampadu
+- Muhammad Al-Fath Amran
+- Nala An
+- Watson Andrew
+- Harilanto Andrianjakarivony
+- Michael Angelov
+- Verónica Antelo
+- Catharine Aquino
+- Álvaro Aranguren
+- Luiza F. Araujo
+- Hitler Francois Vasquez Arevalo
+- Jenny Arevalo
+- Carme Arnan
+- Lucia Elena Alvarado Arnez
+- Fernanda Arredondo
+- Matthew Arthur
+- Freddy Asenjo
+- Thomas Saw Aung
+- Juliette Auvinet
+- Nuria Aventin
+- Sadaf Ayaz
+- Silva Baburyan
+- Abd-Manaaf Bakere
+- Katrin Bakhl
+- Thais F. Bartelli
+- Erdenetsetseg Batdelger
+- François Baudon
+- Kevin Becher
+- Carla Bello
+- Médine Benchouaia
+- Hannah Benisty
+- Anne-Sophie Benoiston
+- Joseph Benson
+- Diego Benítez
+- Juliana Bernardes
+- Denis Bertrand
+- Silvia Beurmann
+- Tristan Bitard-Feildel
+- Lucie Bittner
+- Christina Black
+- Guillaume Blanc
+- Brittany Blyther
+- Toni Bode
+- Julia Boeri
+- Bazartseren Boldgiv
+- Kevin Bolzli
+- Alexia Bordigoni
+- Ciro Borrelli
+- Sonia Bouchard
+- Jean-Pierre Bouly
+- Alicia Boyd
+- Gabriela P. Branco
+- Alessandra Breschi
+- Björn Brindefalk
+- Christian Brion
+- Alan Briones
+- Paulina Buczansla
+- Catherine M. Burke
+- Aszia Burrell
+- Alina Butova
+- Irvind Buttar
+- Jalia Bynoe
+- Sven Bönigk
+- Kari O. Bøifot
+- Hiram Caballero
+- Xiao Wen Cai
+- Dayana Calderon
+- Angela Cantillo
+- Miguel Carbajo
+- Alessandra Carbone
+- Anais Cardenas
+- Katerine Carrillo
+- Laurie Casalot
+- Sofia Castro
+- Ana V. Castro
+- Astred Castro
+- Ana Valeria B. Castro
+- Simone Cawthorne
+- Jonathan Cedillo
+- Salama Chaker
+- Jasna Chalangal
+- Allison Chan
+- Anastasia I. Chasapi
+- Starr Chatziefthimiou
+- Sreya Ray Chaudhuri
+- Akash Keluth Chavan
+- Francisco Chavez
+- Gregory Chem
+- Xiaoqing Chen
+- Michelle Chen
+- Jenn-Wei Chen
+- Ariel Chernomoretz
+- Allaeddine Chettouh
+- Daisy Cheung
+- Diana Chicas
+- Shirley Chiu
+- Hira Choudhry
+- Carl Chrispin
+- Kianna Ciaramella
+- Erika Cifuentes
+- Jake Cohen
+- David A. Coil
+- Sylvie Collin
+- Colleen Conger
+- Romain Conte
+- Flavia Corsi
+- Cecilia N. Cossio
+- Ana F. Costa
+- Delisia Cuebas
+- Bruno D’Alessandro
+- Katherine E. Dahlhausen
+- Aaron E. Darling
+- Pujita Das
+- Lucinda B. Davenport
+- Laurent David
+- Natalie R. Davidson
+- Gargi Dayama
+- Stéphane Delmas
+- Chris K. Deng
+- Chloé Dequeker
+- Alexandre Desert
+- Monika Devi
+- Felipe S. Dezem
+- Clara N. Dias
+- Timothy Ryan Donahoe
+- Sonia Dorado
+- LaShonda Dorsey
+- Valeriia Dotsenko
+- Steven Du
+- Alexandra Dutan
+- Naya Eady
+- Jonathan A. Eisen
+- Miar Elaskandrany
+- Lennard Epping
+- Juan P. Escalera-Antezana
+- Cassie L. Ettinger
+- Iqra Faiz
+- Luice Fan
+- Nadine Farhat
+- Emile Faure
+- Fazlina Fauzi
+- Charlie Feigin
+- Skye Felice
+- Laís Pereira Ferreira
+- Gabriel Figueroa
+- Aubin Fleiss
+- Denisse Flores
+- Jhovana L. Velasco Flores
+- Marcos A.S. Fonseca
+- Jonathan Foox
+- Juan Carlos Forero
+- Aaishah Francis
+- Kelly French
+- Pablo Fresia
+- Jacob Friedman
+- Jaime J. Fuentes
+- Josephine Galipon
+- Mathilde Garcia
+- Laura Garcia
+- Catalina García
+- Annie Geiger
+- Samuel M. Gerner
+- Sonia L. Ghose
+- Dao Phuong Giang
+- Matías Giménez
+- Donato Giovannelli
+- Dedan Githae
+- Spyridon Gkotzis
+- Liliana Godoy
+- Samantha Goldman
+- Gaston H. Gonnet
+- Juana Gonzalez
+- Andrea Gonzalez
+- Camila Gonzalez-Poblete
+- Andrew Gray
+- Tranette Gregory
+- Charlotte Greselle
+- Sophie Guasco
+- Juan Guerra
+- Nika Gurianova
+- Wolfgang Haehr
+- Sebastien Halary
+- Felix Hartkopf
+- Jaden J.A. Hastings
+- Arya Hawkins-Zafarnia
+- Nur Hazlin Hazrin-Chong
+- Eric Helfrich
+- Eva Hell
+- Tamera Henry
+- Samuel Hernandez
+- Pilar Lopez Hernandez
+- David Hess-Homeier
+- Lauren E. Hittle
+- Nghiem Xuan Hoan
+- Aliaksei Holik
+- Chiaki Homma
+- Irene Hoxie
+- Michael Huber
+- Elizabeth Humphries
+- Stephanie Hyland
+- Andrea Hässig
+- Roland Häusler
+- Nathalie Hüsser
+- Robert A. Petit
+- Badamnyambuu Iderzorig
+- Mizuki Igarashi
+- Shaikh B. Iqbal
+- Shino Ishikawa
+- Sakura Ishizuka
+- Sharah Islam
+- Riham Islam
+- Kohei Ito
+- Sota Ito
+- Takayuki Ito
+- Tomislav Ivankovic
+- Tomoki Iwashiro
+- Sarah Jackson
+- JoAnn Jacobs
+- Marisano James
+- Marianne Jaubert
+- Marie-Laure Jerier
+- Esmeralda Jiminez
+- Ayantu Jinfessa
+- Ymke De Jong
+- Hyun Woo Joo
+- Guilllaume Jospin
+- Takema Kajita
+- Affifah Saadah Ahmad Kassim
+- Nao Kato
+- Amrit Kaur
+- Inderjit Kaur
+- Fernanda de Souza Gomes Kehdy
+- Vedbar S. Khadka
+- Shaira Khan
+- Mahshid Khavari
+- Michelle Ki
+- Gina Kim
+- Hyung Jun Kim
+- Sangwan Kim
+- Ryan J. King
+- Kaymisha Knights
+- Giuseppe KoLoMonaco
+- Ellen Koag
+- Nadezhda Kobko-Litskevitch
+- Maryna Korshevniuk
+- Michael Kozhar
+- Jonas Krebs
+- Nanami Kubota
+- Andrii Kuklin
+- Sheelta S. Kumar
+- Rachel Kwong
+- Lawrence Kwong
+- Ingrid Lafontaine
+- Juliana Lago
+- Tsoi Ying Lai
+- Elodie Laine
+- Manolo Laiola
+- Olha Lakhneko
+- Isha Lamba
+- Gerardo de Lamotte
+- Romain Lannes
+- Eleonora De Lazzari
+- Madeline Leahy
+- Hyunjung Lee
+- Yunmi Lee
+- Lucy Lee
+- Vincent Lemaire
+- Emily Leong
+- Marcus H.Y. Leung
+- Dagmara Lewandowska
+- Chenhao Li
+- Weijun Liang
+- Moses Lin
+- Priscilla Lisboa
+- Anna Litskevitch
+- Eric Minwei Liu
+- Tracy Liu
+- Mayra Arauco Livia
+- Yui Him Lo
+- Sonia Losim
+- Manon Loubens
+- Jennifer Lu
+- Olexandr Lykhenko
+- Simona Lysakova
+- Salah Mahmoud
+- Sara Abdul Majid
+- Natalka Makogon
+- Denisse Maldonado
+- Krizzy Mallari
+- Tathiane M. Malta
+- Maliha Mamun
+- Dimitri Manoir
+- German Marchandon
+- Natalia Marciniak
+- Sonia Marinovic
+- Brunna Marques
+- Nicole Mathews
+- Yuri Matsuzaki
+- Vincent Matthys
+- Madelyn May
+- Elias McComb
+- Annabelle Meagher
+- Adiell Melamed
+- Wayne Menary
+- Katterinne N. Mendez
+- Ambar Mendez
+- Irène Mauricette Mendy
+- Irene Meng
+- Ajay Menon
+- Mark Menor
+- Roy Meoded
+- Nancy Merino
+- Cem Meydan
+- Karishma Miah
+- Mathilde Mignotte
+- Tanja Miketic
+- Wilson Miranda
+- Athena Mitsios
+- Ryusei Miura
+- Kunihiko Miyake
+- Maria D. Moccia
+- Natasha Mohan
+- Mohammed Mohsin
+- Karobi Moitra
+- Mauricio Moldes
+- Laura Molina
+- Jennifer Molinet
+- Orgil-Erdene Molomjamts
+- Eftar Moniruzzaman
+- Sookwon Moon
+- Isabelle de Oliveira Moraes
+- Mario Moreno
+- Maritza S. Mosella
+- Josef W. Moser
+- Christopher Mozsary
+- Amanda L. Muehlbauer
+- Oasima Muner
+- Muntaha Munia
+- Naimah Munim
+- Maureen Muscat
+- Tatjana Mustac
+- Cristina Muñoz
+- Francesca Nadalin
+- Areeg Naeem
+- Dorottya Nagy-Szakal
+- Mayuko Nakagawa
+- Ashanti Narce
+- Masaki Nasu
+- Irene González Navarrete
+- Hiba Naveed
+- Bryan Nazario
+- Narasimha Rao Nedunuri
+- Thomas Neff
+- Aida Nesimi
+- Wan Chiew Ng
+- Synti Ng
+- Gloria Nguyen
+- Elsy Ngwa
+- Agier Nicolas
+- Pierre Nicolas
+- Abdollahi Nika
+- Hosna Noorzi
+- Avigdor Nosrati
+- Houtan Noushmehr
+- Diana N. Nunes
+- Kathryn O’Brien
+- Niamh B. O’Hara
+- Gabriella Oken
+- Rantimi A. Olawoyin
+- Javier Quilez Oliete
+- Kiara Olmeda
+- Tolulope Oluwadare
+- Itunu A. Oluwadare
+- Nils Ordioni
+- Jenessa Orpilla
+- Jacqueline Orrego
+- Melissa Ortega
+- Princess Osma
+- Israel O. Osuolale
+- Oluwatosin M. Osuolale
+- Mitsuki Ota
+- Francesco Oteri
+- Yuya Oto
+- Rachid Ounit
+- Christos A. Ouzounis
+- Subhamitra Pakrashi
+- Rachel Paras
+- Coral Pardo-Este
+- Young-Ja Park
+- Paulina Pastuszek
+- Suraj Patel
+- Jananan Pathmanathan
+- Andrea Patrignani
+- Manuel Perez
+- Ante Peros
+- Sabrina Persaud
+- Anisia Peters
+- Adam Phillips
+- Lisbeth Pineda
+- Melissa P. Pizzi
+- Alma Plaku
+- Alketa Plaku
+- Brianna Pompa-Hogan
+- María Gabriela Portilla
+- Leonardo Posada
+- Max Priestman
+- Bharath Prithiviraj
+- Sambhawa Priya
+- Phanthira Pugdeethosal
+- Catherine E. Pugh
+- Benjamin Pulatov
+- Angelika Pupiec
+- Kyrylo Pyrshev
+- Tao Qing
+- Saher Rahiel
+- Savlatjon Rahmatulloev
+- Kannan Rajendran
+- Aneisa Ramcharan
+- Adan Ramirez-Rojas
+- Shahryar Rana
+- Prashanthi Ratnanandan
+- Timothy D. Read
+- Hubert Rehrauer
+- Renee Richer
+- Alexis Rivera
+- Michelle Rivera
+- Alessandro Robertiello
+- Courtney Robinson
+- Paula Rodríguez
+- Nayra Aguilar Rojas
+- Paul Roldán
+- Anyelic Rosario
+- Sandra Roth
+- Maria Ruiz
+- Stephen Eduard Boja Ruiz
+- Kaitlan Russell
+- Mariia Rybak
+- Thais S. Sabedot
+- Mahfuza Sabina
+- Ikuto Saito
+- Yoshitaka Saito
+- Gustavo Adolfo Malca Salas
+- Cecilia Salazar
+- Kaung Myat San
+- Jorge Sanchez
+- Khaliun Sanchir
+- Ryan Sankar
+- Paulo Thiago de Souza Santos
+- Zulena Saravi
+- Kai Sasaki
+- Yuma Sato
+- Masaki Sato
+- Seisuke Sato
+- Ryo Sato
+- Kaisei Sato
+- Nowshin Sayara
+- Steffen Schaaf
+- Oli Schacher
+- Anna-Lena M. Schinke
+- Ralph Schlapbach
+- Christian Schori
+- Jason R. Schriml
+- Felipe Segato
+- Felipe Sepulveda
+- Marianna S. Serpa
+- Paola F. De Sessions
+- Juan C. Severyn
+- Heba Shaaban
+- Maheen Shakil
+- Sarah Shalaby
+- Aliyah Shari
+- Hyenah Shim
+- Hikaru Shirahata
+- Yuh Shiwa
+- Rania Siam
+- Ophélie Da Silva
+- Jordana M. Silva
+- Gwenola Simon
+- Shaleni K. Singh
+- Kasia Sluzek
+- Rebecca Smith
+- Eunice So
+- Núria Andreu Somavilla
+- Yuya Sonohara
+- Nuno Rufino de Sousa
+- Camila Souza
+- Jason Sperry
+- Nicolas Sprinsky
+- Stefan G. Stark
+- Antonietta La Storia
+- Kiyoshi Suganuma
+- Hamood Suliman
+- Jill Sullivan
+- Arif Asyraf Md Supie
+- Chisato Suzuki
+- Sora Takagi
+- Fumie Takahara
+- Naoya Takahashi
+- Kou Takahashi
+- Tomoki Takeda
+- Isabella K. Takenaka
+- Soma Tanaka
+- Anyi Tang
+- Yuk Man Tang
+- Emilio Tarcitano
+- Andrea Tassinari
+- Mahdi Taye
+- Alexis Terrero
+- Eunice Thambiraja
+- Antonin Thiébaut
+- Sade Thomas
+- Andrew M. Thomas
+- Yuto Togashi
+- Takumi Togashi
+- Anna Tomaselli
+- Masaru Tomita
+- Itsuki Tomita
+- Xinzhao Tong
+- Oliver Toth
+- Nora C. Toussaint
+- Jennifer M. Tran
+- Catalina Truong
+- Stefan I. Tsonev
+- Kazutoshi Tsuda
+- Takafumi Tsurumaki
+- Michelle Tuz
+- Yelyzaveta Tymoshenko
+- Carmen Urgiles
+- Mariko Usui
+- Sophie Vacant
+- Brandon Valentine
+- Laura E. Vann
+- Fabienne Velter
+- Valeria Ventorino
+- Patricia Vera-Wolf
+- Riccardo Vicedomini
+- Michael A. Suarez-Villamil
+- Sierra Vincent
+- Renee Vivancos-Koopman
+- Andrew Wan
+- Cindy Wang
+- Tomoro Warashina
+- Ayuki Watanabe
+- Samuel Weekes
+- Johannes Werner
+- David Westfall
+- Lothar H. Wieler
+- Michelle Williams
+- Silver A. Wolf
+- Brian Wong
+- Yan Ling Wong
+- Tyler Wong
+- Rasheena Wright
+- Tina Wunderlin
+- Ryota Yamanaka
+- Jingcheng Yang
+- Hirokazu Yano
+- George C. Yeh
+- Olena Yemets
+- Tetiana Yeskova
+- Shusei Yoshikawa
+- Laraib Zafar
+- Yang Zhang
+- Shu Zhang
+- Amy Zhang
+- Yuanting Zheng
+- Stas Zubenko
+tags: []
+categories: []
+date: '2021-06-01'
+lastmod: 2023-02-27T14:49:56-03:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2023-02-27T17:49:56.586977Z'
+publication_types:
+- '2'
+abstract: ''
+publication: '*Cell*'
+doi: 10.1016/j.cell.2021.05.002
+links:
+- name: URL
+  url: https://linkinghub.elsevier.com/retrieve/pii/S0092867421005857
+---
