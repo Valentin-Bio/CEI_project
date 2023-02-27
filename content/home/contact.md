@@ -18,11 +18,9 @@ content:
   # Email form provider
   form:
     provider: netlify
-    formspree:
-      id: 63b27e92-4b24-4d4d-817e-df1163918365
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: true
+      captcha: false
 
   # Contact details (edit or remove options as required)
   email: v.berriosfarias@gmail.com
