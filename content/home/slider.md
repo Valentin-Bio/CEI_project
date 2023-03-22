@@ -25,10 +25,10 @@ content:
         media: risopatron.jpeg
         fit: cover
       link:
-        icon: graduation-cap
-        icon_pack: fas
-        text: Research lines
-        url: ./../project
+        icon: 
+        icon_pack: 
+        text: 
+        url: 
     
     - title: Meet the CIE!
       content: 
