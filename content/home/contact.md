@@ -17,11 +17,10 @@ content:
 
   # Email form provider
   form:
-    provider: formspree
-    formspree:
-      id: https://formspree.io/f/xeqwkowq
+    provider: netlify
+    netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+      captcha: true
 
   # Contact details (edit or remove options as required)
   email: ''
