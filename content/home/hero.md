@@ -2,7 +2,7 @@
 ---
 widget: hero
 headless: true  # This file represents a page section.
-active: true
+active: false
 # Put Your Section Options Here (title, background, etc.) ...
 title: ""
 weight: 11 # Position of section on the page

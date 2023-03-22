@@ -14,11 +14,17 @@ summary: ""
 tags:
 - ""
 title: "Plant Ecology and Evolution in Agroecosystems"
+authors:
+- pedro-gundel
+
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
+
+
+
 
 <style>
 
@@ -55,7 +61,7 @@ Never before, two big impulses lead our work and fall under the umbrella of the 
 
 <h2><b>Doctoral researchers</b></h2>  
 <ul>
-<li> {{% mention "frank-zarraga" %}} 2022-2025. Respuestas transgeneracionales en plantas mediadas por microorganismos simbióticos de transmisión vertical. Doctoral fellowship supported by University of Talca, Chile.</li>  
+<li> {{% mention "frank-zarraga" %}} 2021-2025. Respuestas transgeneracionales en plantas mediadas por microorganismos simbióticos de transmisión vertical. Doctoral fellowship supported by University of Talca, Chile.</li>  
 </ul>
 
 <br>

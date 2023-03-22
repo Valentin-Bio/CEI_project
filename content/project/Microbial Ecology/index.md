@@ -5,6 +5,9 @@ image:
   caption: Base cientifica de San Ignacio de Huinay, fiordo Comau
   focal_point: Smart
 weight: 10
+
+authors: 
+- eduardo-castro
 design:
  columns: '1'
 #links:
@@ -23,13 +26,15 @@ url_slides: ""
 url_video: ""
 ---
 
+
 <style>
  section{
- background: #f8f2cc;
+ background: white;
  margin: 0px;
  padding: 0px;
  }
 
+f8f2cc
 
  h2
 </style>

@@ -36,7 +36,7 @@ design:
   view: compact
   columns: '2'
   background: 
-   image: biotech.png
+   image: biotech_2.png
    image_size: actual
    image_position: left
    image_parallax: false

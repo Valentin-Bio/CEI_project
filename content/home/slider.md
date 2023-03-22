@@ -1,7 +1,7 @@
 ---
 widget: slider  # Use the Slider widget as this page section
 weight: 10  # Position of this section on the page
-active: false  # Publish this section?
+active: true  # Publish this section?
 headless: true  # This file represents a page section.
 
 design:
@@ -15,14 +15,14 @@ design:
 
 content:
   slides:
-    - title:  Welcome to the CIE 
-      content: Take a look at what we're working on...
+    - title:  Centre for Integrative Ecology
+      content: 
       align: center
       background:
         position: right
-        color: '#666'
+        color: white
         brightness: 0.7
-        media: avatar.jpeg
+        media: risopatron.jpeg
         fit: cover
       link:
         icon: graduation-cap
@@ -35,9 +35,9 @@ content:
       align: left
       background:
         position: center
-        color: '#333'
-        brightness: 0.5
-        media: avatar.jpeg
+        color: green
+        brightness: 0.9
+        media: utalca_jardin_2.jpeg
         fit: cover
       link:
         icon: graduation-cap

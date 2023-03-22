@@ -5,6 +5,8 @@ image:
   caption: Glaciar Unión
   focal_point: Smart
 weight: 10
+authors: 
+- marco-molina
 design:
  columns: '1'
 #links:
