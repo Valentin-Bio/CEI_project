@@ -20,7 +20,7 @@ content:
       align: center
       background:
         position: right
-        color: white
+        color: 
         brightness: 0.7
         media: risopatron.jpeg
         fit: cover
