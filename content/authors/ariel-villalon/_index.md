@@ -5,7 +5,7 @@ education:
   courses:
   - course: PhD. candidate, Engineering Systems
     institution: Universidad de Talca, Chile
-  - course: MSc. in New and Renewable Energy, Durham University, U.K.
+  - course: MSc. in New and Renewable Energy
     institution: Durham University, U.K.
   - course: BSc. Forest Engineering  
     institution: Universidad de Chile, Chile.  
@@ -13,12 +13,12 @@ email: "avillalon@utalca.cl"
 highlight_name: false
 interests:
 - Sustainable energies
-- Electronics technologies
-- Distributed energy generation
+- Power electronics
+- Distributed generation and microgrids
 organizations:
 - name: Universidad de Talca
   url: ""
-role: Ph.D. Student
+role: Ph.D. Candidate
 social:
 - icon: envelope
   icon_pack: fas
