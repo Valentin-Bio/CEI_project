@@ -17,7 +17,7 @@ interests:
 - Distributed generation and microgrids
 organizations:
 - name: Universidad de Talca
-  url: ""
+  url: "https://www.utalca.cl"
 role: Ph.D. Candidate
 social:
 - icon: envelope
