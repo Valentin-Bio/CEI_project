@@ -22,7 +22,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/Valentin-Bio
-
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.es/citations?user=qIc9IiQAAAAJ&hl=es
 superuser: true
 title: Valentín Berrios
 user_groups: ["Doctoral Students"]

@@ -24,6 +24,9 @@ social:
  - icon: google-scholar
    icon_pack: ai
    link: https://www.scopus.com/authid/detail.uri?authorId=56489804400
+ - icon: chile
+   icon_pack: emoji
+ 
 superuser: true
 title: Dr. Andrea Ueno
 user_groups: ["Associated Researchers"]
