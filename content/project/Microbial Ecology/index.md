@@ -132,13 +132,6 @@ The diversity and functional significance of microbial communities have become a
 
 <footer> 
 
-<h2> Link to photography </h2> 
-
-
-https://www.dropbox.com/s/qqigvuajub0ei0c/glaciarunion.031.jpeg?dl=0
-
-https://www.dropbox.com/s/c34w5i5n9jd0ohe/glaciarunion02.jpeg?dl=0
-
 
 
 </footer> 

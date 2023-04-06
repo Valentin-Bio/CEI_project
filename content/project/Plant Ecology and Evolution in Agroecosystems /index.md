@@ -55,7 +55,7 @@ Never before, two big impulses lead our work and fall under the umbrella of the 
 
 <h2><b>Postdoctoral researchers</b></h2>  
 
-{{% mention "andrea-ueno" %}} 2022-2024. Papel de las asociaciones simbióticas en relación maleza-cultivo bajo escenarios de cambio global: la batalla se intensifica. Postdoctoral fellowship supported by University of Talca, Chile. 
+<li> {{% mention "andrea-ueno" %}} 2022-2024. Papel de las asociaciones simbióticas en relación maleza-cultivo bajo escenarios de cambio global: la batalla se intensifica. Postdoctoral fellowship supported by University of Talca, Chile. </li>
 
 <br>
 
