@@ -29,7 +29,7 @@ social:
   icon_pack: fab
   link: https://twitter.com/lalopangue
 superuser: true
-title: Eduardo Castro Nallar, Ph.D.
+title: Eduardo Castro-Nallar
 user_groups: ["Principal Investigators"]
 ---
 Microorganisms are the most abundant life forms on the planet. They are able to colonize and thrive in most environments ranging from the human body to under water thermal vents. I am interested in understanding how microbial communities respond to disturbances, how they maintain diversity, and their role in ecosystem processes. To approach this, I apply molecular microbiology, high-throughput sequencing, computational biology, and field work on microbial communities in situ or in the lab.
