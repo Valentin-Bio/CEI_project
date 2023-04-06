@@ -28,6 +28,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/lalopangue
+- icon: researchgate  
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Eduardo-Castro-Nallar
 superuser: true
 title: Eduardo Castro-Nallar
 user_groups: ["Principal Investigators"]
