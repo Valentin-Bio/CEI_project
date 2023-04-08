@@ -33,4 +33,5 @@ I am a research assistant. My main research interest is in the use of biotechnol
 I have an extensive research experience in plant sciences, where I have worked in a number of projects, including:
 - plant reproductive development, with special attention to flower induction and pollen development in grapevine
 - the generation of tolerance to water deficit in plants of agricultural importance through the study of abiotic stress related genes.
+
 My current work focuses on the evaluation of herbivory response genes in plant of <i>Lolium multiflorum</i> and the influence that a symbiotic microorganism may have on this. I am also working on the evaluation of the expression of the symbiont's own genes and their effect on the performance of the plant.
