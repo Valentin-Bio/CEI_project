@@ -2,7 +2,7 @@
 bio: ""
 education:
   courses:
-  - course: Ph.D (c). In Sciences 
+  - course: Ph.D. In Sciences 
     institution: Universidad de Talca
     
   - course: B.Sc. In Agricultural engineer, 
