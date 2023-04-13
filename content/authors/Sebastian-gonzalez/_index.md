@@ -5,7 +5,7 @@ education:
   - course: Ph.D. In Sciences 
     institution: Universidad de Talca
     
-  - course: B.Sc. In Agricultural engineer, 
+  - course: B.Sc. In Agricultural Engineer
     institution: Universidad de Concepción
 email: "abarrera@utalca.cl"
 highlight_name: true
